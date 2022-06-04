@@ -430,6 +430,12 @@
                                     </mask>
                                 </variation>
                             </progressView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Turn ringer on for game sounds!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Ye-Et-YUu">
+                                <rect key="frame" x="63.333333333333343" y="108" width="301.66666666666663" height="26.333333333333343"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <color key="textColor" red="0.2156862745" green="0.023529411760000001" blue="0.39607843139999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <constraints>
@@ -438,6 +444,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="IQh-kT-x3N" secondAttribute="bottom" constant="20" id="EDI-UE-nk3"/>
                             <constraint firstAttribute="bottom" secondItem="VfS-0H-zcT" secondAttribute="bottom" id="Gc7-0J-nSJ"/>
                             <constraint firstItem="VfS-0H-zcT" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="Gyn-Jy-7Wa"/>
+                            <constraint firstItem="9Ye-Et-YUu" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="L9t-eQ-Bjd"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="IQh-kT-x3N" secondAttribute="bottom" id="SMa-VC-wQU"/>
                             <constraint firstItem="IQh-kT-x3N" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Sqy-Bw-ecV"/>
                             <constraint firstItem="hZf-Hf-DKQ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Y3a-MU-lro"/>
@@ -446,6 +453,7 @@
                             <constraint firstItem="sex-Lt-3xA" firstAttribute="top" secondItem="hZf-Hf-DKQ" secondAttribute="bottom" constant="5" id="foA-ID-FxM"/>
                             <constraint firstItem="hZf-Hf-DKQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="5" id="kiT-XB-WpV"/>
                             <constraint firstItem="hZf-Hf-DKQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="5" id="klH-wc-zWc"/>
+                            <constraint firstItem="9Ye-Et-YUu" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ooi-q7-oD8"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="hZf-Hf-DKQ" secondAttribute="trailing" constant="5" id="pBY-Er-Ktg"/>
                             <constraint firstItem="hZf-Hf-DKQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="u3u-hl-Pxz"/>
                             <constraint firstItem="sex-Lt-3xA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="uNu-dl-7fC"/>
@@ -492,6 +500,7 @@
                     <connections>
                         <outlet property="nextButton" destination="sex-Lt-3xA" id="vOo-ph-pxj"/>
                         <outlet property="progressBar" destination="IQh-kT-x3N" id="dct-47-nTQ"/>
+                        <outlet property="soundLabel" destination="9Ye-Et-YUu" id="JPX-XW-Qai"/>
                         <outlet property="wordLabel" destination="hZf-Hf-DKQ" id="zi5-zE-4z7"/>
                         <segue destination="HZA-cZ-iZp" kind="show" identifier="endOfRound" id="Xu1-ub-YvS"/>
                     </connections>
@@ -1503,7 +1512,7 @@
                             </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" adjustsFontForContentSizeCategory="YES" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rsh-FQ-kDX">
                                 <rect key="frame" x="15" y="126" width="398" height="674"/>
-                                <mutableString key="text">1) Divide into two even teams to play. 2) Arrange seating so that each player is sitting next to a member of the other team to quickly pass the phone back and forth, like "Hot Potato". 3) Select a category and a randomized word will appear, starting the game and the timer. 4) The goal is to get your teammates to guess the correct word through verbal clues or physical gestures. Avoid giving these as clues: A word that rhymes with the word, the first letter of the word, or any part of the word (e.g. sun in sunglasses). 5) Once the word is guessed correctly, quickly pass the phone to the other team. 6) The round continues until the timer runs out and the buzzer sounds. The team left holding the phone at the end of the round loses. 7) Give the winning team 1 point at the end of each round. 8) The round winner chooses the new category and the next round begins. 9) The game continues for 7 rounds. The team with the highest score at the end wins the game! Toggle game sound on/off with your ringer.</mutableString>
+                                <string key="text">1) Divide into two even teams to play. 2) Arrange seating so that each player is sitting next to a member of the other team to quickly pass the phone back and forth, like "Hot Potato". 3) Select a category and a randomized word will appear, starting the game and the timer. 4) The goal is to get your teammates to guess the correct word through verbal clues or physical gestures. Avoid giving these as clues: A word that rhymes with the word, the first letter of the word, or any part of the word (e.g. sun in sunglasses). 5) Once the word is guessed correctly, quickly pass the phone to the other team. 6) The round continues until the timer runs out and the buzzer sounds. The team left holding the phone at the end of the round loses. 7) Give the winning team 1 point at the end of each round. 8) The round winner chooses the new category and the next round begins. 9) The game continues for 7 rounds. The team with the highest score at the end wins the game! Toggle game sound on/off with your ringer.</string>
                                 <color key="textColor" red="0.2156862745" green="0.023529411760000001" blue="0.39607843139999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>

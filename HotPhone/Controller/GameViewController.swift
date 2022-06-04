@@ -21,10 +21,12 @@ class GameViewController: UIViewController {
     @IBOutlet weak var wordLabel: UILabel!
     @IBOutlet weak var nextButton: UIButton!
     @IBOutlet weak var progressBar: UIProgressView!
+    @IBOutlet weak var soundLabel: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         timerLength = gameManager.roundTime()
+        showSoundMessage()
         gameManager.playSound(soundName: "\(timerLength)")
         updateUI()
         progressBar.progress = 0
@@ -51,6 +53,16 @@ class GameViewController: UIViewController {
           words.remove(at: index)
         }
         wordLabel.text = currentWord
+    }
+    
+    func showSoundMessage() {
+        if gameManager.gameRound == 1 {
+            DispatchQueue.main.asyncAfter(deadline:.now() + 7.0, execute:{
+                self.soundLabel.isHidden = true
+            })
+        } else {
+            soundLabel.isHidden = true
+        }
     }
     
 //MARK: - Go To Round Winner VC
