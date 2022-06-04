@@ -1,0 +1,33 @@
+{
+  "identifier" : "C69DC067",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "3AB296F1",
+      "localizations" : [
+        {
+          "description" : "Unlock more categories to play",
+          "displayName" : "Additional Categories",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "me.AshleySmith.HotPhone.AdditionalCategories",
+      "referenceName" : "Additional Categories",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

@@ -1,0 +1,3034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>people</key>
+	<array>
+		<string>Usain Bolt</string>
+		<string>Cher</string>
+		<string>Henry Ford</string>
+		<string>Florence Nightingale</string>
+		<string>Clint Eastwood</string>
+		<string>Janet Jackson</string>
+		<string>Anne Hathaway</string>
+		<string>Stan Lee</string>
+		<string>Judy Garland</string>
+		<string>Viola Davis</string>
+		<string>Julia Roberts</string>
+		<string>Leonardo DiCaprio</string>
+		<string>Kate Winslet</string>
+		<string>Nicole Kidman</string>
+		<string>Harrison Ford</string>
+		<string>Robert De Niro</string>
+		<string>Jack Nicholson</string>
+		<string>Stevie Nicks</string>
+		<string>Kylie Jenner</string>
+		<string>Caitlyn Jenner</string>
+		<string>Kendall Jenner</string>
+		<string>Hailey Bieber</string>
+		<string>Gigi Hadid</string>
+		<string>Anne Frank</string>
+		<string>Celine Dion</string>
+		<string>Kate Middleton</string>
+		<string>Prince</string>
+		<string>David Bowie</string>
+		<string>Frank Sinatra</string>
+		<string>Aretha Franklin</string>
+		<string>Saint Anthony</string>
+		<string>Franklin D. Roosevelt</string>
+		<string>Ernest Hemmingway</string>
+		<string>George Orwell</string>
+		<string>Stephen King</string>
+		<string>Stephenie Meyer</string>
+		<string>Steve Harvey</string>
+		<string>Jimmy Fallon</string>
+		<string>Robin Williams</string>
+		<string>Stephen Colbert</string>
+		<string>Horace</string>
+		<string>Benjamin Franklin</string>
+		<string>Saint Nicholas</string>
+		<string>Mother Teresa</string>
+		<string>Bruno Mars</string>
+		<string>Steve Irwin</string>
+		<string>Malala Yousafzai</string>
+		<string>Meryl Streep</string>
+		<string>Richard Nixon</string>
+		<string>Demi Lovato</string>
+		<string>Susan B. Anthony</string>
+		<string>Bob Marley</string>
+		<string>Lindsey Lohan</string>
+		<string>Paula Abdul</string>
+		<string>Natalie Portman</string>
+		<string>Dennis Quiad</string>
+		<string>Kelly Clarkson</string>
+		<string>AOC</string>
+		<string>Taylor Lautner</string>
+		<string>Keith Urban</string>
+		<string>Drew Barrymore</string>
+		<string>Miranda Cosgrove</string>
+		<string>Heidi Klum</string>
+		<string>James Franco</string>
+		<string>George Bush</string>
+		<string>Penelope Cruz</string>
+		<string>Queen Latifah</string>
+		<string>Kristin Chenoweth</string>
+		<string>Jon Stewart</string>
+		<string>Dave Chapelle</string>
+		<string>Morgan Freeman</string>
+		<string>Elton John</string>
+		<string>Tom Cruise</string>
+		<string>Taylor Swift</string>
+		<string>Willow Smith</string>
+		<string>Miley Cyrus</string>
+		<string>Jennifer Lawrence </string>
+		<string>Justin Timberlake</string>
+		<string>Robert Pattinson</string>
+		<string>Eminem </string>
+		<string>Snoop Dogg</string>
+		<string>Nicki Minaj</string>
+		<string>Tom Hanks</string>
+		<string>Britney Spears</string>
+		<string>Tiger Woods</string>
+		<string>John Krasinski</string>
+		<string>Chris Pratt</string>
+		<string>George Clooney</string>
+		<string>Katy Perry</string>
+		<string>Princess Diana</string>
+		<string>Adele</string>
+		<string>Cristiano Ronaldo</string>
+		<string>Drake</string>
+		<string>Rihanna</string>
+		<string>Steven Spielberg</string>
+		<string>Justin Bieber</string>
+		<string>Jennifer Lopez</string>
+		<string>Will Smith</string>
+		<string>The Rock</string>
+		<string>Johnny Depp</string>
+		<string>Alexander the Great</string>
+		<string>Genghis Khan</string>
+		<string>Billie Eilish</string>
+		<string>Prince Charles</string>
+		<string>Prince William</string>
+		<string>Audrey Hepburn</string>
+		<string>Sigmund Freud</string>
+		<string>Babe Ruth</string>
+		<string>Ronald Reagan</string>
+		<string>Michael Jackson</string>
+		<string>Madonna</string>
+		<string>Elon Musk</string>
+		<string>Adolf Hitler</string>
+		<string>Plato</string>
+		<string>Pablo Picasso</string>
+		<string>Amelia Earhart</string>
+		<string>Coco Chanel</string>
+		<string>Michael Jordan</string>
+		<string>Greta Thunberg</string>
+		<string>Fidel Castro</string>
+		<string>Joseph Stalin</string>
+		<string>John Lennon</string>
+		<string>Angelina Jolie</string>
+		<string>George Orwell</string>
+		<string>Malcolm X</string>
+		<string>Neil Armstrong </string>
+		<string>J.K. Rowling</string>
+		<string>Pocahontas</string>
+		<string>Saddam Hussein</string>
+		<string>Walt Disney</string>
+		<string>Oprah Winfrey</string>
+		<string>Mark Twain</string>
+		<string>Ludwig Beethoven</string>
+		<string>Vincent Van Gogh</string>
+		<string>Mark Zuckerberg</string>
+		<string>Bill Gates</string>
+		<string>Joe Biden</string>
+		<string>Donald Trump</string>
+		<string>Queen Elizabeth II</string>
+		<string>JFK</string>
+		<string>Martin Luther King Jr.</string>
+		<string>Mahatma Gandhi</string>
+		<string>Nelson Mandela </string>
+		<string>Frank Lloyd Wright </string>
+		<string>Charles Dickens</string>
+		<string>Alexander Hamilton</string>
+		<string>William Shakespeare</string>
+		<string>Rosa Parks</string>
+		<string>Charles Darwin</string>
+		<string>Leonardo da Vinci</string>
+		<string>Albert Einstein</string>
+		<string>Marilyn Monroe</string>
+		<string>Paul Rudd</string>
+		<string>Snooki</string>
+		<string>Jennifer Aniston</string>
+		<string>Lady Gaga</string>
+		<string>Bruce Lee</string>
+		<string>Hillary Clinton</string>
+		<string>Josh Allen</string>
+		<string>Derek Jeter</string>
+		<string>Steve Jobs</string>
+		<string>Cleopatra</string>
+		<string>Elvis Presley</string>
+		<string>Lisa Vanderpump</string>
+		<string>George Washington</string>
+		<string>Megan Fox</string>
+		<string>Pete Davidson</string>
+		<string>Ariana Grande</string>
+		<string>Bob Saget</string>
+		<string>Kanye West</string>
+		<string>Barack Obama</string>
+		<string>Abraham Lincoln</string>
+		<string>Brad Pitt</string>
+		<string>Mariah Carey</string>
+		<string>Catherine the Great</string>
+		<string>Bill Clinton</string>
+		<string>Marie Antoinette</string>
+		<string>Sylvester Stallone</string>
+		<string>Mary Magdalene</string>
+		<string>Nostradamus</string>
+		<string>Jack the Ripper</string>
+		<string>Mikhail Gorbachev</string>
+		<string>John Locke</string>
+		<string>Winston Churchill</string>
+		<string>Frida Kahlo</string>
+		<string>Edgar Allan Poe</string>
+		<string>Hannibal</string>
+		<string>Benito Mussolini</string>
+		<string>Hippocrates</string>
+		<string>Charlie Chaplin</string>
+		<string>Jimmy Carter</string>
+		<string>Johannes Gutenberg</string>
+		<string>Charlemagne</string>
+		<string>Nikola Tesla</string>
+		<string>Jean-Jacques Rousseau</string>
+		<string>Pythagoras</string>
+		<string>Thomas Edison</string>
+		<string>Thomas Jefferson</string>
+		<string>Homer</string>
+		<string>Immanuel Kant</string>
+		<string>Joan of Arc</string>
+		<string>Ferdinand Magellan</string>
+		<string>Moses</string>
+		<string>Archimedes</string>
+		<string>Confucius</string>
+		<string>Julius Caesar</string>
+		<string>Socrates</string>
+		<string>Galileo Galilei</string>
+		<string>Aristotle</string>
+		<string>Christopher Columbus</string>
+		<string>Marco Polo</string>
+		<string>Wolfgang Amadeus Mozart</string>
+		<string>Napoleon</string>
+		<string>Isaac Newton</string>
+		<string>Muhammad</string>
+		<string>Trisha Paytas</string>
+		<string>Shane Dawson</string>
+		<string>David Dobrik</string>
+		<string>Jeffree Star</string>
+		<string>Addison Rae</string>
+		<string>Lisa Vanderpump</string>
+		<string>Timothée Chalamet</string>
+		<string>Zendaya</string>
+		<string>Tom Holland</string>
+		<string>Andrew Garfield</string>
+		<string>Emma Stone</string>
+		<string>Megan Thee Stallion</string>
+		<string>Matt Dillon</string>
+		<string>Christopher Walken</string>
+		<string>Michael Caine</string>
+		<string>Joseph Gordon-Levitt</string>
+		<string>Christian Bale</string>
+		<string>Edward Norton</string>
+		<string>Denzel Washington</string>
+		<string>Don Cheadle</string>
+		<string>Jake Gyllenhaal</string>
+		<string>Daniel Craig</string>
+		<string>Steve Buscemi</string>
+		<string>Michael Sheen</string>
+		<string>Matt Damon</string>
+		<string>Liev Schreiber</string>
+		<string>Jude Law</string>
+		<string>John C. Reilly</string>
+		<string>Stellan Skarsgård</string>
+		<string>Ryan Gosling</string>
+		<string>Hugh Jackman</string>
+		<string>Woody Allen</string>
+		<string>James McAvoy</string>
+		<string>Mark Wahlberg</string>
+		<string>Sean Penn</string>
+		<string>Kevin Spacey</string>
+		<string>John Cusack</string>
+		<string>Will Ferrell</string>
+		<string>Gerard Butler</string>
+		<string>Russell Crowe</string>
+		<string>Chris Evans</string>
+		<string>Samuel L. Jackson</string>
+		<string>Matthew McConaughey</string>
+		<string>Steve Martin</string>
+		<string>Robert Downey Jr.</string>
+		<string>Mark Ruffalo</string>
+		<string>Michael J. Fox</string>
+		<string>Heath Ledger</string>
+		<string>Liam Neeson</string>
+		<string>Keanu Reeves</string>
+		<string>Mel Gibson</string>
+		<string>Jim Carrey</string>
+		<string>Bruce Willis</string>
+		<string>Jamie Foxx</string>
+		<string>Timothy Olyphant</string>
+		<string>Channing Tatum</string>
+		<string>Brendan Fraser</string>
+		<string>Colin Firth</string>
+		<string>Ashton Kutcher</string>
+		<string>David Schwimmer</string>
+		<string>Joaquin Phoenix</string>
+		<string>Steve Carell</string>
+		<string>Bill Murray</string>
+		<string>Alan Rickman</string>
+		<string>Christopher Lloyd</string>
+		<string>Cate Blanchett</string>
+		<string>Uma Thurman</string>
+		<string>Helena Bonham Carter</string>
+		<string>Sigourney Weaver</string>
+		<string>Charlize Theron</string>
+		<string>Julianne Moore</string>
+		<string>Jodie Foster</string>
+		<string>Rachel McAdams</string>
+		<string>Saoirse Ronan</string>
+		<string>Keira Knightley</string>
+		<string>Margot Robbie</string>
+		<string>Jennifer Connelly</string>
+		<string>Hilary Swank</string>
+		<string>Jessica Chastain</string>
+		<string>Tilda Swinton</string>
+		<string>Brie Larson</string>
+		<string>Rosamund Pike</string>
+		<string>Anna Kendrick</string>
+		<string>Diane Keaton</string>
+		<string>Emily Blunt</string>
+		<string>Grace Kelly</string>
+		<string>Carrie Fisher</string>
+		<string>Vera Farmiga</string>
+		<string>Elizabeth Banks</string>
+		<string>Emmy Rossum</string>
+		<string>Kate Mara</string>
+		<string>Demi Moore</string>
+		<string>Chloë Grace Moretz</string>
+		<string>Blake Lively</string>
+		<string>Michelle Pfeiffer</string>
+		<string>Octavia Spencer</string>
+		<string>Alyson Hannigan</string>
+		<string>Cameron Diaz</string>
+		<string>Kirsten Dunst</string>
+		<string>Renée Zellweger</string>
+		<string>Kristen Stewart</string>
+		<string>DaBaby</string>
+		<string>Lil Nas X</string>
+		<string>Joey King</string>
+		<string>Zoey Deutch</string>
+		<string>Lili Reinhart</string>
+		<string>Finneas O&apos;Connell</string>
+		<string>Normani</string>
+		<string>Carrie Underwood</string>
+		<string>Hunter Schafer</string>
+		<string>Cole Sprouse</string>
+		<string>Dylan Sprouse</string>
+		<string>Finn Wolfhard</string>
+		<string>Tyler the Creator</string>
+		<string>Mac Miller</string>
+		<string>Shonda Rhimes</string>
+		<string>Kevin Durant</string>
+		<string>Stephen Curry</string>
+		<string>Serena Williams</string>
+		<string>Floyd Mayweather</string>
+		<string>Conor McGregor</string>
+		<string>James Harden</string>
+		<string>Kyrie Irving</string>
+		<string>Shaun White</string>
+		<string>Venus Williams</string>
+		<string>Drew Brees</string>
+		<string>Cam Newton</string>
+		<string>Aaron Rodgers</string>
+		<string>J.J. Watt</string>
+		<string>Russell Wilson</string>
+		<string>Alex Morgan</string>
+		<string>Willie Mays</string>
+		<string>Lou Gehrig</string>
+		<string>Joe DiMaggio</string>
+		<string>Alex Rodriguez</string>
+		<string>Aaron Judge</string>
+		<string>Kobe Bryant</string>
+		<string>Scottie Pippen</string>
+		<string>Tristan Thompson</string>
+		<string>Kourtney Kardashian</string>
+		<string>Khloe Kardashian</string>
+		<string>Travis Barker</string>
+		<string>Lionel Messi</string>
+		<string>Joe Montana</string>
+		<string>Peyton Manning</string>
+		<string>Rob Gronkowski</string>
+		<string>Stefon Diggs</string>
+		<string>Patrick Mahomes</string>
+		<string>Shawn Mendes</string>
+		<string>Selena Gomez</string>
+		<string>Dua Lipa</string>
+		<string>Camila Cabello</string>
+		<string>The Weeknd</string>
+		<string>Beyonce</string>
+		<string>Post Malone</string>
+		<string>James Cameron</string>
+		<string>Khalid</string>
+		<string>Sia</string>
+		<string>Charlie Puth</string>
+		<string>Nick Jonas</string>
+		<string>John Legend</string>
+		<string>Sam Smith</string>
+		<string>Lizzo</string>
+		<string>Doja Cat</string>
+		<string>Pink</string>
+		<string>Ellie Goulding</string>
+		<string>Harry Styles</string>
+		<string>Christina Aguilera</string>
+		<string>Alicia Keys</string>
+		<string>Lana Del Ray</string>
+		<string>Jason Derulo</string>
+		<string>Avril Lavigne</string>
+		<string>Brendon Urie</string>
+		<string>Swae Lee</string>
+		<string>Enrique Iglesias</string>
+		<string>Shakira</string>
+		<string>Luke Bryan</string>
+		<string>Miranda Lambert</string>
+		<string>Blake Shelton</string>
+		<string>Ty Dolla $ign</string>
+		<string>Kacey Musgraves</string>
+		<string>Sza</string>
+		<string>Tori Kelly</string>
+		<string>Dierks Bentley</string>
+		<string>J. Cole</string>
+		<string>Troye Sivan</string>
+		<string>Simon Cowell</string>
+		<string>Cody Ko</string>
+		<string>Ciara</string>
+		<string>Adam Lambert</string>
+		<string>Emma Chamberlain</string>
+		<string>Caspar Lee</string>
+		<string>James Charles</string>
+		<string>Huda Kattan</string>
+		<string>Jennifer Hudson</string>
+		<string>Tyra Banks</string>
+		<string>Kevin O&apos;Leary</string>
+		<string>Howie Mandel</string>
+		<string>Steve-O</string>
+		<string>Ethan Klein</string>
+		<string>Kendra Wilkinson </string>
+		<string>Lauren Conrad</string>
+		<string>Abby Lee Miller</string>
+		<string>DJ Pauly D</string>
+		<string>Chrissy Teigen</string>
+		<string>Mike The Situation</string>
+		<string>Chip Gaines</string>
+		<string>Shanna Moakler</string>
+		<string>Tiffany Pollard</string>
+		<string>Dr. Will</string>
+		<string>Kris Jenner</string>
+		<string>Nicole Scherzinger</string>
+		<string>Kyle Richards</string>
+		<string>Rosie O&apos;Donnell</string>
+		<string>Dr. Oz</string>
+		<string>Scheana Shay</string>
+		<string>JWoww</string>
+		<string>Trixie Mattel</string>
+		<string>Colton Underwood</string>
+		<string>Kaitlyn Bristowe</string>
+		<string>Chris Harrison</string>
+		<string>Teresa Giudice</string>
+		<string>Bryce Hall</string>
+		<string>Stassi Schroeder</string>
+		<string>Jax Taylor</string>
+		<string>Jeffrey Dahmer</string>
+		<string>Ted Bundy</string>
+		<string>John Wayne Gacy</string>
+		<string>Charles Manson</string>
+		<string>Casey Anthony</string>
+		<string>Amy Winehouse</string>
+		<string>Usher</string>
+		<string>Eugene Levy</string>
+		<string>Paris Hilton</string>
+		<string>Kristen Bell</string>
+		<string>Tupac Shakur</string>
+		<string>Alex Trebek</string>
+		<string>Joan Rivers</string>
+		<string>Bill Nye</string>
+		<string>Kamala Harris</string>
+		<string>Michelle Obama</string>
+		<string>Nancy Pelosi</string>
+		<string>Sarah Palin</string>
+		<string>Ted Cruz</string>
+		<string>Mike Pence</string>
+		<string>Mitch McConnell</string>
+		<string>Mitt Romney</string>
+		<string>Elizabeth Warren</string>
+		<string>Andrew Cuomo</string>
+		<string>Lindsey Graham</string>
+		<string>Pete Buttigieg</string>
+		<string>Beto O&apos;Rourke</string>
+		<string>Andrew Yang</string>
+		<string>Martin Scorsese</string>
+		<string>Stanley Kubrick</string>
+		<string>George Lucas</string>
+		<string>Quentin Tarantino</string>
+		<string>Tim Burton</string>
+		<string>Roman Polanski</string>
+		<string>Jane Austen</string>
+		<string>John Steinbeck</string>
+		<string>Dr. Seuss</string>
+		<string>Roald Dahl</string>
+		<string>Daniel Radcliffe</string>
+		<string>Millie Bobby Brown</string>
+		<string>Macaulay Culkin</string>
+		<string>Josh Peck</string>
+		<string>Drake Bell</string>
+		<string>ASAP Rocky</string>
+		<string>Travis Scott</string>
+		<string>Scott Dissick</string>
+		<string>Rupert Grint</string>
+		<string>North West</string>
+		<string>Ted Danson</string>
+		<string>Betty White</string>
+		<string>Fred Rogers</string>
+		<string>Tim Allen</string>
+		<string>Kaley Cuoco</string>
+		<string>Ellen Pompeo</string>
+		<string>Emilia Clarke</string>
+		<string>Jenna Fischer</string>
+		<string>Jerry Seinfeld</string>
+		<string>Jay-Z</string>
+		<string>50 Cent</string>
+		<string>Cardi B</string>
+	</array>
+	<key>objects</key>
+	<array>
+		<string>dirt</string>
+		<string>motorcycle</string>
+		<string>patio set</string>
+		<string>bus</string>
+		<string>flag</string>
+		<string>sandcastle</string>
+		<string>beach ball</string>
+		<string>lilac bush</string>
+		<string>rose garden</string>
+		<string>sunflower</string>
+		<string>acorn</string>
+		<string>snail shell</string>
+		<string>pinecone</string>
+		<string>ribbon</string>
+		<string>edibles</string>
+		<string>plastic cutlery</string>
+		<string>Tesla</string>
+		<string>Jeep</string>
+		<string>Corvette</string>
+		<string>shawl</string>
+		<string>rock</string>
+		<string>catalogue</string>
+		<string>keyboard</string>
+		<string>quilt</string>
+		<string>spice rack</string>
+		<string>frying pan</string>
+		<string>spring</string>
+		<string>slippers</string>
+		<string>street light</string>
+		<string>gauze</string>
+		<string>letter opener</string>
+		<string>tongs</string>
+		<string>phone charger</string>
+		<string>harmonica</string>
+		<string>cowboy hat</string>
+		<string>bookmark</string>
+		<string>fake flowers</string>
+		<string>pop can</string>
+		<string>candy wrapper</string>
+		<string>candlestick</string>
+		<string>glitter</string>
+		<string>pearl necklace</string>
+		<string>quartz crystal</string>
+		<string>bottle of pills</string>
+		<string>sheet of paper</string>
+		<string>crowbar</string>
+		<string>toe ring</string>
+		<string>grid paper</string>
+		<string>tweezers</string>
+		<string>eyeliner</string>
+		<string>spatula</string>
+		<string>grocery list</string>
+		<string>mouse pad</string>
+		<string>rabbits foot</string>
+		<string>seeds</string>
+		<string>belt buckle</string>
+		<string>handkerchief</string>
+		<string>arrow head</string>
+		<string>drawing</string>
+		<string>wine cork</string>
+		<string>love letter</string>
+		<string>four leaf clover</string>
+		<string>bird feather</string>
+		<string>boom box</string>
+		<string>microphone</string>
+		<string>bath bomb</string>
+		<string>fire hydrant</string>
+		<string>board game</string>
+		<string>deck of cards</string>
+		<string>colored pencils</string>
+		<string>picture book</string>
+		<string>wind-up toy</string>
+		<string>earring</string>
+		<string>elliptical</string>
+		<string>treadmill</string>
+		<string>timer</string>
+		<string>highlighter</string>
+		<string>pencil case</string>
+		<string>stylus</string>
+		<string>hole punch</string>
+		<string>USB</string>
+		<string>index card</string>
+		<string>binder clip</string>
+		<string>thumb tack</string>
+		<string>cactus</string>
+		<string>ruler</string>
+		<string>briefcase</string>
+		<string>bento box</string>
+		<string>ceiling fan</string>
+		<string>sewing machine</string>
+		<string>smoke detector</string>
+		<string>VCR</string>
+		<string>radiator</string>
+		<string>DVD player</string>
+		<string>cat toy</string>
+		<string>ornament</string>
+		<string>terrarium</string>
+		<string>garland</string>
+		<string>cupboard</string>
+		<string>fire extinguisher</string>
+		<string>ironing board</string>
+		<string>Tide Pod</string>
+		<string>mousetrap</string>
+		<string>dehumidifier</string>
+		<string>clothing iron</string>
+		<string>bleach</string>
+		<string>squeegee</string>
+		<string>Windex</string>
+		<string>veggie spiralizer</string>
+		<string>parchment paper</string>
+		<string>bar stool</string>
+		<string>cookie cutters</string>
+		<string>french press</string>
+		<string>immersion blender</string>
+		<string>tea kettle</string>
+		<string>pizza cutter</string>
+		<string>greenhouse</string>
+		<string>weed wacker</string>
+		<string>sprinkler</string>
+		<string>hose</string>
+		<string>scarecrow</string>
+		<string>pitchfork</string>
+		<string>wheelbarrow</string>
+		<string>robot vacuum</string>
+		<string>table runner</string>
+		<string>centerpiece</string>
+		<string>teaspoon</string>
+		<string>placemat</string>
+		<string>shot glass</string>
+		<string>chopsticks</string>
+		<string>bottle opener</string>
+		<string>spork</string>
+		<string>gravy boat</string>
+		<string>decanter</string>
+		<string>power strip</string>
+		<string>bib</string>
+		<string>step stool</string>
+		<string>booster seat</string>
+		<string>baby monitor</string>
+		<string>side table</string>
+		<string>menorah</string>
+		<string>chandelier</string>
+		<string>sculpture</string>
+		<string>GPS</string>
+		<string>handheld vacuum</string>
+		<string>car key</string>
+		<string>pressure washer</string>
+		<string>wardrobe</string>
+		<string>duvet cover</string>
+		<string>mattress</string>
+		<string>ottoman</string>
+		<string>bible</string>
+		<string>lucky cat</string>
+		<string>snow globe</string>
+		<string>rosary</string>
+		<string>lint roller</string>
+		<string>leggings</string>
+		<string>Levi jeans</string>
+		<string>onesie</string>
+		<string>padded bra</string>
+		<string>boxer briefs</string>
+		<string>trousers</string>
+		<string>contact solution</string>
+		<string>mini skirt</string>
+		<string>bodysuit</string>
+		<string>puffer jacket</string>
+		<string>blazer</string>
+		<string>romper</string>
+		<string>cardigan</string>
+		<string>night gown</string>
+		<string>ballet shoes</string>
+		<string>crop top</string>
+		<string>flip flops</string>
+		<string>dress shoes</string>
+		<string>stilettos</string>
+		<string>throw pillow</string>
+		<string>bathing suit</string>
+		<string>swim cap</string>
+		<string>polo shirt</string>
+		<string>sports bra</string>
+		<string>maternity clothing</string>
+		<string>bermuda shorts</string>
+		<string>leotard</string>
+		<string>kilt</string>
+		<string>suspenders</string>
+		<string>shapewear</string>
+		<string>wine fridge</string>
+		<string>screwdriver</string>
+		<string>sandpaper</string>
+		<string>chisel</string>
+		<string>pliers</string>
+		<string>staple gun</string>
+		<string>workbench</string>
+		<string>drill</string>
+		<string>step ladder</string>
+		<string>broom and dustpan</string>
+		<string>swimming goggles</string>
+		<string>snorkel</string>
+		<string>wet wipes</string>
+		<string>retainer</string>
+		<string>moisturizer</string>
+		<string>facial cleanser</string>
+		<string>mouthwash</string>
+		<string>shower curtain</string>
+		<string>plunger</string>
+		<string>toilet paper</string>
+		<string>paper mache</string>
+		<string>glue gun</string>
+		<string>marble</string>
+		<string>dollhouse</string>
+		<string>Crayola markers</string>
+		<string>pawn</string>
+		<string>Rubik&apos;s cube</string>
+		<string>domino</string>
+		<string>coffee table</string>
+		<string>palette</string>
+		<string>dartboard</string>
+		<string>thimble</string>
+		<string>tape measure</string>
+		<string>bookend</string>
+		<string>pool table</string>
+		<string>crochet hook</string>
+		<string>foosball table</string>
+		<string>bead</string>
+		<string>embroidery hoop</string>
+		<string>carry-on luggage</string>
+		<string>suitcase</string>
+		<string>calligraphy brush</string>
+		<string>magnifying glass</string>
+		<string>scratching post</string>
+		<string>vinyl record</string>
+		<string>sheet music</string>
+		<string>drum set</string>
+		<string>flute</string>
+		<string>recorder</string>
+		<string>violin bow</string>
+		<string>cello</string>
+		<string>charcoal BBQ</string>
+		<string>champagne glass</string>
+		<string>extension cord</string>
+		<string>food dispenser</string>
+		<string>meat thermometer</string>
+		<string>mason jar</string>
+		<string>lunch box</string>
+		<string>parasol</string>
+		<string>LED lightstrip</string>
+		<string>training wheels</string>
+		<string>tricycle</string>
+		<string>swing</string>
+		<string>jump rope</string>
+		<string>yoyo</string>
+		<string>inflatable pool</string>
+		<string>skateboard</string>
+		<string>easel</string>
+		<string>stroller</string>
+		<string>fanny pack</string>
+		<string>watering can</string>
+		<string>binoculars</string>
+		<string>clutch</string>
+		<string>earplug</string>
+		<string>telescope</string>
+		<string>canopy</string>
+		<string>hijab</string>
+		<string>mailbox</string>
+		<string>trampoline</string>
+		<string>pet collar</string>
+		<string>bird cage</string>
+		<string>sled</string>
+		<string>dog leash</string>
+		<string>ice skates</string>
+		<string>bicycle lock</string>
+		<string>Christmas tree</string>
+		<string>Christmas lights</string>
+		<string>Christmas wreath</string>
+		<string>rubber boots</string>
+		<string>pressure washer</string>
+		<string>hoe</string>
+		<string>compass</string>
+		<string>atlas</string>
+		<string>ashtray</string>
+		<string>apron</string>
+		<string>apple corer</string>
+		<string>antiseptic cream</string>
+		<string>answering machine</string>
+		<string>ankle boot</string>
+		<string>aluminum foil</string>
+		<string>air purifier</string>
+		<string>air freshener</string>
+		<string>air conditioner</string>
+		<string>after sun lotion</string>
+		<string>wrench</string>
+		<string>adapter</string>
+		<string>activity book</string>
+		<string>acrylic paint</string>
+		<string>acoustic guitar</string>
+		<string>alarm clock</string>
+		<string>bin</string>
+		<string>battery</string>
+		<string>headphones</string>
+		<string>sunscreen</string>
+		<string>painkiller</string>
+		<string>Macbook Pro</string>
+		<string>desktop computer</string>
+		<string>comb</string>
+		<string>file</string>
+		<string>clip</string>
+		<string>purse</string>
+		<string>foundation</string>
+		<string>lipstick</string>
+		<string>match</string>
+		<string>cigarette</string>
+		<string>lighter</string>
+		<string>rain jacket</string>
+		<string>umbrella</string>
+		<string>mobile phone</string>
+		<string>identification card</string>
+		<string>coin</string>
+		<string>dictionary</string>
+		<string>postcard</string>
+		<string>digital camera</string>
+		<string>photo album</string>
+		<string>watch</string>
+		<string>diary</string>
+		<string>novel</string>
+		<string>salt lamp</string>
+		<string>trunk</string>
+		<string>stress ball</string>
+		<string>tent</string>
+		<string>stethoscope</string>
+		<string>pulse oximeter</string>
+		<string>Nintendo Wii</string>
+		<string>Nintendo Switch</string>
+		<string>hamster wheel</string>
+		<string>velcro</string>
+		<string>shoe horn</string>
+		<string>knee socks</string>
+		<string>garage</string>
+		<string>joggers</string>
+		<string>hoodie</string>
+		<string>hair curlers</string>
+		<string>cotton ball</string>
+		<string>keychain</string>
+		<string>lantern</string>
+		<string>passport</string>
+		<string>lawn mower</string>
+		<string>sticker</string>
+		<string>ladle</string>
+		<string>fidget spinner</string>
+		<string>beanie</string>
+		<string>gift card</string>
+		<string>stick of gum</string>
+		<string>Nintendo DS</string>
+		<string>picture frame</string>
+		<string>winter boots</string>
+		<string>dagger</string>
+		<string>box of crayons</string>
+		<string>postage stamp</string>
+		<string>toilet paper tube</string>
+		<string>frying pan</string>
+		<string>Scotch Tape</string>
+		<string>Monopoly</string>
+		<string>pair of handcuffs</string>
+		<string>shopping bag</string>
+		<string>laser pointer</string>
+		<string>computer monitor</string>
+		<string>can of beans</string>
+		<string>pasta strainer</string>
+		<string>hammock</string>
+		<string>tire swing</string>
+		<string>ice cube tray</string>
+		<string>butter dish</string>
+		<string>jigsaw puzzle</string>
+		<string>ball of yarn</string>
+		<string>guitar strings</string>
+		<string>Lysol wipes</string>
+		<string>whitening toothpaste</string>
+		<string>Razor scooter</string>
+		<string>garbage can</string>
+		<string>blackout curtain</string>
+		<string>walkie talkie</string>
+		<string>rocket ship</string>
+		<string>fish tank</string>
+		<string>lava lamp</string>
+		<string>record player</string>
+		<string>incense stick</string>
+		<string>cement</string>
+		<string>basketball</string>
+		<string>magnifying glass</string>
+		<string>jetski</string>
+		<string>sailboat</string>
+		<string>engagement ring</string>
+		<string>bow and arrow</string>
+		<string>clothesline</string>
+		<string>Q-tips</string>
+		<string>squirt gun</string>
+		<string>magnet</string>
+		<string>checkbook</string>
+		<string>comic book</string>
+		<string>router</string>
+		<string>jar of pickles</string>
+		<string>pinecone</string>
+		<string>Christmas ornament</string>
+		<string>neon sign</string>
+		<string>paint brush</string>
+		<string>wine glass</string>
+		<string>Xbox</string>
+		<string>remote control</string>
+		<string>loofa</string>
+		<string>wagon</string>
+		<string>lock and key</string>
+		<string>pool ladder</string>
+		<string>sunglasses</string>
+		<string>cutting board</string>
+		<string>rubber band</string>
+		<string>gold necklace</string>
+		<string>sponge</string>
+		<string>glow stick</string>
+		<string>paper bag</string>
+		<string>American Girl Doll</string>
+		<string>hair tie</string>
+		<string>sticky note</string>
+		<string>HDMI cord</string>
+		<string>floor mirror</string>
+		<string>sharpie</string>
+		<string>plastic fork</string>
+		<string>velvet</string>
+		<string>red solo cup</string>
+		<string>chalkboard</string>
+		<string>washing machine</string>
+		<string>nail polish</string>
+		<string>shoelace</string>
+		<string>electrical outlet</string>
+		<string>bow tie</string>
+		<string>veneers</string>
+		<string>contact lenses</string>
+		<string>cat tree</string>
+		<string>tweezers</string>
+		<string>leather belt</string>
+		<string>running sneakers</string>
+		<string>credit card</string>
+		<string>charm bracelet</string>
+		<string>balloon</string>
+		<string>seat belt</string>
+		<string>stop sign</string>
+		<string>mountain bike</string>
+		<string>packing peanuts</string>
+		<string>helmet</string>
+		<string>digital clock</string>
+		<string>silk bathrobe</string>
+		<string>thermostat</string>
+		<string>mop and bucket</string>
+		<string>rain puddle</string>
+		<string>zipper</string>
+		<string>snow shovel</string>
+		<string>lip gloss</string>
+		<string>bed</string>
+		<string>shampoo and conditioner</string>
+		<string>canvas</string>
+		<string>wallet</string>
+		<string>clothing hanger</string>
+		<string>screw</string>
+		<string>air freshener </string>
+		<string>Roku stick</string>
+		<string>hair brush</string>
+		<string>CD</string>
+		<string>Television</string>
+		<string>cotton towel</string>
+		<string>water bottle</string>
+		<string>toothpick</string>
+		<string>sewing thread</string>
+		<string>cardboard box</string>
+		<string>fluffy rug</string>
+		<string>spiral notebook</string>
+		<string>coffee mug</string>
+		<string>The Sims</string>
+		<string>steak knife </string>
+		<string>palm tree</string>
+		<string>iPhone case</string>
+		<string>beer keg</string>
+		<string>open window</string>
+		<string>mini fridge</string>
+		<string>picnic basket</string>
+		<string>grass lawn</string>
+		<string>doorknob</string>
+		<string>flower vase</string>
+		<string>grand piano</string>
+		<string>chess</string>
+		<string>roller coaster</string>
+		<string>napkin</string>
+		<string>hammer and nail</string>
+		<string>hanging plant</string>
+		<string>wooden table</string>
+		<string>door</string>
+		<string>sundress</string>
+		<string>standing fan</string>
+		<string>ballpoint pen</string>
+		<string>soft blanket</string>
+		<string>sidewalk</string>
+		<string>SUV</string>
+		<string>four wick candle</string>
+	</array>
+	<key>world</key>
+	<array>
+		<string>Napa Valley</string>
+		<string>Aspen</string>
+		<string>Antelope Canyon</string>
+		<string>Horseshoe Bend</string>
+		<string>Glacier National Park</string>
+		<string>Joshua Tree National Park</string>
+		<string>Yellowstone National Park</string>
+		<string>Romania</string>
+		<string>Luxembourg</string>
+		<string>Capri</string>
+		<string>Bali</string>
+		<string>Santorini</string>
+		<string>Thousand Islands</string>
+		<string>Managua</string>
+		<string>Nadi</string>
+		<string>Pearl Harbor</string>
+		<string>Green Bay</string>
+		<string>Winnipeg</string>
+		<string>Ottawa</string>
+		<string>Calgary</string>
+		<string>Montreal</string>
+		<string>Salem</string>
+		<string>Fort Lauderdale</string>
+		<string>Montgomery</string>
+		<string>Salt Lake City</string>
+		<string>Yonkers</string>
+		<string>Rochester</string>
+		<string>Des Moines</string>
+		<string>Boise</string>
+		<string>Richmond</string>
+		<string>Winston-Salem</string>
+		<string>Jersey City</string>
+		<string>St. Petersburg</string>
+		<string>Scottsdale</string>
+		<string>Anchorage</string>
+		<string>Newark</string>
+		<string>St. Louis</string>
+		<string>Pittsburgh</string>
+		<string>Cincinnati</string>
+		<string>Puerto Rico</string>
+		<string>San Juan</string>
+		<string>Cleveland</string>
+		<string>Mardi Gras</string>
+		<string>Oktoberfest</string>
+		<string>Wichita</string>
+		<string>Tampa</string>
+		<string>Minneapolis</string>
+		<string>Omaha</string>
+		<string>Kansas City</string>
+		<string>Atlanta</string>
+		<string>Tucson</string>
+		<string>Albuquerque</string>
+		<string>Baltimore</string>
+		<string>Milwaukee</string>
+		<string>Louisville</string>
+		<string>Detroit</string>
+		<string>Portland</string>
+		<string>Boston</string>
+		<string>Washington D.C.</string>
+		<string>Denver</string>
+		<string>Seattle</string>
+		<string>Indianapolis</string>
+		<string>Columbus</string>
+		<string>Charlotte</string>
+		<string>Jacksonville</string>
+		<string>Austin</string>
+		<string>Dallas</string>
+		<string>San Diego</string>
+		<string>San Antonio</string>
+		<string>Philadelphia</string>
+		<string>Chicago</string>
+		<string>Houston</string>
+		<string>Phoenix</string>
+		<string>United States of America</string>
+		<string>South America</string>
+		<string>North America</string>
+		<string>Africa</string>
+		<string>Asian</string>
+		<string>Asia</string>
+		<string>Europe</string>
+		<string>Arctic Ocean</string>
+		<string>Indian Ocean</string>
+		<string>Pacific Ocean</string>
+		<string>Atlantic Ocean</string>
+		<string>Lake Como</string>
+		<string>Lake Tahoe</string>
+		<string>The Vietnam War</string>
+		<string>avalanche</string>
+		<string>Peace Corps</string>
+		<string>igloo</string>
+		<string>toll bridge</string>
+		<string>The Air Force</string>
+		<string>The Marines</string>
+		<string>National Guard</string>
+		<string>Coast Guard</string>
+		<string>Rock the Vote</string>
+		<string>The Navy</string>
+		<string>Tour de France</string>
+		<string>Democrat</string>
+		<string>lunar eclipse</string>
+		<string>Wall Street</string>
+		<string>Native American</string>
+		<string>Hell&apos;s Kitchen</string>
+		<string>Death Valley</string>
+		<string>Middle East</string>
+		<string>Smithsonian</string>
+		<string>The Pentagon</string>
+		<string>moon landing</string>
+		<string>Sunshine State</string>
+		<string>Northern Lights</string>
+		<string>Hoover Dam</string>
+		<string>Swiss Alps</string>
+		<string>heat wave</string>
+		<string>catacombs</string>
+		<string>malaria</string>
+		<string>Ebola Virus</string>
+		<string>Zika Virus</string>
+		<string>earthquake</string>
+		<string>zero gravity</string>
+		<string>wind chill</string>
+		<string>missing link</string>
+		<string>West Nile Virus</string>
+		<string>Everglades National Park</string>
+		<string>Nashville</string>
+		<string>Radio City Music Hall</string>
+		<string>Idaho potatoes</string>
+		<string>Virgin Islands</string>
+		<string>Rosetta Stone</string>
+		<string>skyscraper</string>
+		<string>Camp David</string>
+		<string>windmill</string>
+		<string>Area 51</string>
+		<string>The Hamptons</string>
+		<string>Republican</string>
+		<string>blue state</string>
+		<string>flash flood</string>
+		<string>rainbow</string>
+		<string>Mississippi River</string>
+		<string>Ice Age</string>
+		<string>Epcot Center</string>
+		<string>The Rockies</string>
+		<string>constellation</string>
+		<string>airline</string>
+		<string>City Hall</string>
+		<string>Harlem</string>
+		<string>Tribeca</string>
+		<string>travel advisory</string>
+		<string>solar eclipse</string>
+		<string>global warming</string>
+		<string>Memphis</string>
+		<string>dew point</string>
+		<string>Windy City</string>
+		<string>Grand Central</string>
+		<string>San Andreas Fault</string>
+		<string>Central Park</string>
+		<string>Rodeo Drive</string>
+		<string>foreign language</string>
+		<string>middle class</string>
+		<string>Nile River</string>
+		<string>The Big Apple</string>
+		<string>Sea World</string>
+		<string>greenhouse gases</string>
+		<string>black ice</string>
+		<string>Busch Gardens</string>
+		<string>lighthouse</string>
+		<string>globetrotter</string>
+		<string>Daylight Savings Time</string>
+		<string>time zones</string>
+		<string>Central Standard Time</string>
+		<string>Pacific Standard Time</string>
+		<string>Eastern Standard Time</string>
+		<string>International Date Line</string>
+		<string>Bermuda Triangle</string>
+		<string>Dust Bowl</string>
+		<string>Monaco</string>
+		<string>hurricane season</string>
+		<string>midwest</string>
+		<string>hot spring</string>
+		<string>Made in China</string>
+		<string>cold front</string>
+		<string>UFO</string>
+		<string>wildfire</string>
+		<string>Peso</string>
+		<string>modern medicine</string>
+		<string>cave art</string>
+		<string>Notre Dame</string>
+		<string>UCLA</string>
+		<string>Route 66</string>
+		<string>Atlantic City</string>
+		<string>Beverly Hills</string>
+		<string>Caesar&apos;s Palace</string>
+		<string>Amazon River</string>
+		<string>Buckingham Palace</string>
+		<string>White House</string>
+		<string>Miami Beach</string>
+		<string>Key West</string>
+		<string>endangered species</string>
+		<string>Treaty of Versailles</string>
+		<string>Al Qaeda</string>
+		<string>Apartheid</string>
+		<string>Apollo 11</string>
+		<string>Assassination of Archduke Franz Ferdinand</string>
+		<string>FDA</string>
+		<string>Civil Rights Movement</string>
+		<string>United Nations</string>
+		<string>Nazi</string>
+		<string>The Great Depression</string>
+		<string>Black Tuesday</string>
+		<string>pandemic</string>
+		<string>COVID-19</string>
+		<string>The Women&apos;s Suffrage Movement</string>
+		<string>The Civil War</string>
+		<string>natural selection</string>
+		<string>The Communist Manifesto</string>
+		<string>smallpox vaccine</string>
+		<string>The French Revolution</string>
+		<string>Declaration of Indepence</string>
+		<string>The American Revolution</string>
+		<string>The Boston Tea Party</string>
+		<string>The Industrial Revolution</string>
+		<string>Heliocentric Model</string>
+		<string>Spanish</string>
+		<string>West Indies</string>
+		<string>The Ottoman Empire</string>
+		<string>The Renaissance</string>
+		<string>Bubonic Plague</string>
+		<string>Mayans</string>
+		<string>Incas</string>
+		<string>Judaism</string>
+		<string>Islam</string>
+		<string>Christianity</string>
+		<string>Confucianism</string>
+		<string>Buddhism</string>
+		<string>The Iron Age</string>
+		<string>Code of Hammurabi</string>
+		<string>Phoenician alphabet</string>
+		<string>Lebanon</string>
+		<string>Palestine</string>
+		<string>pharaoh</string>
+		<string>Hieroglyphics</string>
+		<string>Cuneiform</string>
+		<string>The Agricultural Revolution</string>
+		<string>9/11</string>
+		<string>USSR</string>
+		<string>The Cold War</string>
+		<string>World War II</string>
+		<string>World War I</string>
+		<string>glacier</string>
+		<string>canyon</string>
+		<string>forest</string>
+		<string>hill</string>
+		<string>grasslands</string>
+		<string>valley</string>
+		<string>plain</string>
+		<string>mountain</string>
+		<string>plateau</string>
+		<string>oasis</string>
+		<string>marsh</string>
+		<string>swamp</string>
+		<string>desert</string>
+		<string>tundra</string>
+		<string>Greenland</string>
+		<string>German</string>
+		<string>Dutch</string>
+		<string>African-American</string>
+		<string>American</string>
+		<string>African</string>
+		<string>Swedish</string>
+		<string>English</string>
+		<string>Polish</string>
+		<string>Irish</string>
+		<string>Italian</string>
+		<string>Greek</string>
+		<string>Manhattan</string>
+		<string>Westchester</string>
+		<string>Long Island</string>
+		<string>Staten Island</string>
+		<string>Queens</string>
+		<string>Brooklyn Bridge</string>
+		<string>Chinatown</string>
+		<string>Soho</string>
+		<string>Upper West Side</string>
+		<string>latitude</string>
+		<string>longitude</string>
+		<string>Rio de Janeiro</string>
+		<string>Stockholm</string>
+		<string>Lima</string>
+		<string>Honolulu</string>
+		<string>Tel Aviv</string>
+		<string>Auckland</string>
+		<string>Melbourne</string>
+		<string>Copenhagen</string>
+		<string>Vancouver</string>
+		<string>Lisbon</string>
+		<string>Budapest</string>
+		<string>Jerusalem</string>
+		<string>Beijing</string>
+		<string>Munich</string>
+		<string>Sydney</string>
+		<string>Florence</string>
+		<string>Dublin</string>
+		<string>Madrid</string>
+		<string>Moscow</string>
+		<string>Berlin</string>
+		<string>Orlando</string>
+		<string>Athens</string>
+		<string>Cairo</string>
+		<string>Cancun</string>
+		<string>Vienna</string>
+		<string>Milan</string>
+		<string>Barcelona</string>
+		<string>Shanghai</string>
+		<string>India</string>
+		<string>Amsterdam</string>
+		<string>Medina</string>
+		<string>Czech Republic</string>
+		<string>Saudi Arabia</string>
+		<string>Prague</string>
+		<string>Taiwan</string>
+		<string>Phucket</string>
+		<string>Mumbai</string>
+		<string>Shenzhen</string>
+		<string>Istanbul</string>
+		<string>Bangkok</string>
+		<string>Panama Canal</string>
+		<string>The Great Lakes</string>
+		<string>Lake Ontario</string>
+		<string>Lake Erie</string>
+		<string>Crater Lake</string>
+		<string>Caspian Sea</string>
+		<string>Red Sea</string>
+		<string>The Dead Sea</string>
+		<string>Hollywood Sign</string>
+		<string>CN Tower</string>
+		<string>Louvre Museum</string>
+		<string>Pompeii</string>
+		<string>Colosseum</string>
+		<string>Kilimanjaro</string>
+		<string>Sydney Opera House</string>
+		<string>Hudson River</string>
+		<string>Auschwitz Memorial</string>
+		<string>Trevi Fountain</string>
+		<string>Mount Rushmore</string>
+		<string>Capitol Hill</string>
+		<string>Easter Island</string>
+		<string>Stonehenge</string>
+		<string>Mount Fuji</string>
+		<string>Acropolis</string>
+		<string>Mecca</string>
+		<string>Versailles</string>
+		<string>Pyramids of Giza</string>
+		<string>The Statue of Liberty</string>
+		<string>Victoria Falls</string>
+		<string>New Orleans</string>
+		<string>The Great Barrier Reef</string>
+		<string>Six Flags</string>
+		<string>Universal Studios</string>
+		<string>Cedar Point</string>
+		<string>Yosemite National Park</string>
+		<string>St. Lucia</string>
+		<string>Machu Picchu</string>
+		<string>Grand Canyon</string>
+		<string>Portugal</string>
+		<string>Ukraine</string>
+		<string>South Korea</string>
+		<string>Israel</string>
+		<string>Costa Rica</string>
+		<string>Mexico</string>
+		<string>France</string>
+		<string>Netherlands</string>
+		<string>The Bahamas</string>
+		<string>Belgium</string>
+		<string>Austria</string>
+		<string>Finland</string>
+		<string>Japan</string>
+		<string>Scotland</string>
+		<string>Times Square</string>
+		<string>Great Wall</string>
+		<string>Leaning Tower of Pisa</string>
+		<string>Taj Mahal</string>
+		<string>Nicaragua</string>
+		<string>Denmark</string>
+		<string>New Zealand</string>
+		<string>Jamaica</string>
+		<string>Australia</string>
+		<string>Peru</string>
+		<string>South Africa</string>
+		<string>Bora Bora</string>
+		<string>Kenya</string>
+		<string>Argentina</string>
+		<string>Maldives</string>
+		<string>Banff</string>
+		<string>Morocco</string>
+		<string>Los Angeles</string>
+		<string>Singapore</string>
+		<string>Glacier National Park</string>
+		<string>Sweden</string>
+		<string>Chile</string>
+		<string>Haiti</string>
+		<string>Pangea</string>
+		<string>equator</string>
+		<string>Toronto</string>
+		<string>Disney World</string>
+		<string>Tokyo</string>
+		<string>Turkey</string>
+		<string>Dubai</string>
+		<string>Paris</string>
+		<string>Thailand</string>
+		<string>Barbados</string>
+		<string>Egypt</string>
+		<string>United Kingdom</string>
+		<string>Las Vegas</string>
+		<string>West Virginia</string>
+		<string>Wisconsin</string>
+		<string>Wyoming</string>
+		<string>Washington</string>
+		<string>Virginia</string>
+		<string>Vermont</string>
+		<string>Utah</string>
+		<string>Texas</string>
+		<string>Tennessee</string>
+		<string>South Dakota</string>
+		<string>South Carolina</string>
+		<string>Rhode Island</string>
+		<string>Pennsylvania</string>
+		<string>Oregon</string>
+		<string>Oklahoma</string>
+		<string>Ohio</string>
+		<string>North Carolina</string>
+		<string>North Dakota</string>
+		<string>New York</string>
+		<string>New Mexico</string>
+		<string>New Jersey</string>
+		<string>New Hampshire</string>
+		<string>Nevada</string>
+		<string>Nebraska</string>
+		<string>Montana</string>
+		<string>Mississippi</string>
+		<string>Michigan</string>
+		<string>Minnesota</string>
+		<string>Missouri</string>
+		<string>Massachusetts</string>
+		<string>Maryland</string>
+		<string>Maine</string>
+		<string>Louisiana</string>
+		<string>Kansas</string>
+		<string>Kentucky</string>
+		<string>Illinois</string>
+		<string>Indiana</string>
+		<string>Iowa</string>
+		<string>Idaho</string>
+		<string>Hawaii</string>
+		<string>Georgia</string>
+		<string>Florida</string>
+		<string>Delaware</string>
+		<string>California</string>
+		<string>Colorado</string>
+		<string>Connecticut</string>
+		<string>Arizona</string>
+		<string>Arkansas</string>
+		<string>Alaska</string>
+		<string>Alabama</string>
+		<string>Mesopotamia </string>
+		<string>Mardis Gras</string>
+		<string>Aztecs</string>
+		<string>Jordan</string>
+		<string>Big Ben</string>
+		<string>Eiffel Tower</string>
+		<string>Vatican City</string>
+		<string>Maui</string>
+		<string>Buffalo</string>
+		<string>Albany</string>
+		<string>San Francisco</string>
+		<string>Greece</string>
+		<string>Germany</string>
+		<string>Poland</string>
+		<string>Aruba</string>
+		<string>Niagara Falls</string>
+		<string>Amazon rainforest</string>
+		<string>New York City</string>
+		<string>Iraq</string>
+		<string>Italy</string>
+		<string>Spain</string>
+		<string>Hong Kong</string>
+		<string>continents</string>
+		<string>Antartica</string>
+		<string>Florida Keys</string>
+		<string>Fiji</string>
+		<string>Brazil</string>
+		<string>Punta Cana</string>
+		<string>Madagascar</string>
+		<string>Zion National Park</string>
+		<string>Mount Everest</string>
+		<string>North Pole</string>
+		<string>Myanmar</string>
+		<string>Canada</string>
+		<string>Ireland</string>
+		<string>Iceland</string>
+		<string>Switzerland</string>
+		<string>Norway</string>
+	</array>
+	<key>food</key>
+	<array>
+		<string>butter</string>
+		<string>raw honey</string>
+		<string>cupcake</string>
+		<string>sourdough bread</string>
+		<string>red velvet cake</string>
+		<string>tahini</string>
+		<string>salsa verde</string>
+		<string>ketchup</string>
+		<string>cheesy potato casserole</string>
+		<string>crescent rolls</string>
+		<string>taquitos</string>
+		<string>shoe string french fries</string>
+		<string>mashed potatoes</string>
+		<string>Lean Cuisine</string>
+		<string>Bagel Bites</string>
+		<string>frozen pizza</string>
+		<string>Toaster Strudel</string>
+		<string>multigrain bread</string>
+		<string>english muffin</string>
+		<string>cereal</string>
+		<string>home fries</string>
+		<string>cannoli</string>
+		<string>cassata cake</string>
+		<string>bananas foster</string>
+		<string>brownies</string>
+		<string>pudding</string>
+		<string>carrot cake</string>
+		<string>hot fudge</string>
+		<string>jello</string>
+		<string>peach cobbler</string>
+		<string>key lime pie</string>
+		<string>funnel cake</string>
+		<string>tiramisù</string>
+		<string>arancini</string>
+		<string>focaccia</string>
+		<string>gelato</string>
+		<string>risotto</string>
+		<string>sardines</string>
+		<string>chickpeas</string>
+		<string>diced green chiles</string>
+		<string>split pea soup</string>
+		<string>prunes</string>
+		<string>refried beans</string>
+		<string>Doritos</string>
+		<string>Oreos</string>
+		<string>Goldfish</string>
+		<string>Cheetos Puffs</string>
+		<string>M&amp;Ms</string>
+		<string>gummy worms</string>
+		<string>Kit Kat</string>
+		<string>Lays</string>
+		<string>Twix</string>
+		<string>Combos</string>
+		<string>Starburst</string>
+		<string>trail mix</string>
+		<string>Chex Mix</string>
+		<string>chocolate-covered pretzels</string>
+		<string>Ruffles</string>
+		<string>Reese&apos;s Pieces</string>
+		<string>Butterfinger</string>
+		<string>oatmeal cream pie</string>
+		<string>Twinkie</string>
+		<string>kettle chips</string>
+		<string>Bugles</string>
+		<string>Wheat Thins</string>
+		<string>Sour Patch Kids</string>
+		<string>Skittles</string>
+		<string>Rice Krispies</string>
+		<string>Gushers</string>
+		<string>Teddy Grahams</string>
+		<string>Jelly Bellies</string>
+		<string>animal crackers</string>
+		<string>Milky Way</string>
+		<string>3 Musketeers</string>
+		<string>Funyuns</string>
+		<string>SunChips</string>
+		<string>Fruit Roll-Up</string>
+		<string>jerky</string>
+		<string>Nutter Butters</string>
+		<string>Triscuits</string>
+		<string>Almond Joy</string>
+		<string>Twizzlers</string>
+		<string>Rold Gold</string>
+		<string>Nerds</string>
+		<string>Swedish Fish</string>
+		<string>Takis</string>
+		<string>cheese balls</string>
+		<string>Pez</string>
+		<string>seaweed snacks</string>
+		<string>Ho Hos</string>
+		<string>Cheez-Its</string>
+		<string>Donettes</string>
+		<string>Mike and Ike&apos;s</string>
+		<string>fruit snacks</string>
+		<string>sunflower seeds</string>
+		<string>saltines</string>
+		<string>mojito</string>
+		<string>ginger beer</string>
+		<string>iced tea</string>
+		<string>piña colada</string>
+		<string>bloody mary</string>
+		<string>moscow mule</string>
+		<string>martini</string>
+		<string>watermelon</string>
+		<string>pomegranate</string>
+		<string>prickly pear</string>
+		<string>plum</string>
+		<string>dragonfruit</string>
+		<string>passion fruit</string>
+		<string>lychee</string>
+		<string>guava</string>
+		<string>elderberry</string>
+		<string>cranberry juice</string>
+		<string>dates</string>
+		<string>clementine</string>
+		<string>cantaloupe</string>
+		<string>avocado toast</string>
+		<string>apricot</string>
+		<string>kale</string>
+		<string>romaine lettuce</string>
+		<string>sweet potato</string>
+		<string>spaghetti squash</string>
+		<string>radish</string>
+		<string>snow peas</string>
+		<string>scallions</string>
+		<string>jicama</string>
+		<string>collard greens</string>
+		<string>corn on the cob</string>
+		<string>purple cabbage</string>
+		<string>brussels sprouts</string>
+		<string>Broccolini</string>
+		<string>bok choy</string>
+		<string>beets</string>
+		<string>eggplant</string>
+		<string>cherries</string>
+		<string>coleslaw</string>
+		<string>carrots</string>
+		<string>relish</string>
+		<string>yellow mustard</string>
+		<string>coconut milk</string>
+		<string>mayonnaise</string>
+		<string>lemon juice</string>
+		<string>iceberg lettuce</string>
+		<string>bagged spinach</string>
+		<string>cucumber</string>
+		<string>grape tomatoes</string>
+		<string>green beans</string>
+		<string>applewood smoked bacon</string>
+		<string>salami</string>
+		<string>large brown eggs</string>
+		<string>sour cream</string>
+		<string>half and half</string>
+		<string>cottage cheese</string>
+		<string>greek yogurt</string>
+		<string>grated Parmesan</string>
+		<string>shredded mozzarella</string>
+		<string>sharp cheddar cheese</string>
+		<string>artichoke hearts</string>
+		<string>roasted red peppers</string>
+		<string>sun-dried tomatoes</string>
+		<string>pecan pie</string>
+		<string>cashews</string>
+		<string>walnuts</string>
+		<string>almonds</string>
+		<string>pumpkin</string>
+		<string>pickled jalapeños</string>
+		<string>black olives</string>
+		<string>chia seeds</string>
+		<string>protein powder</string>
+		<string>mint</string>
+		<string>vanilla extract</string>
+		<string>cooking spray</string>
+		<string>coconut oil</string>
+		<string>cocoa powder</string>
+		<string>balsamic vinegar</string>
+		<string>garlic cloves</string>
+		<string>soy sauce</string>
+		<string>red wine</string>
+		<string>apple cider vinegar</string>
+		<string>canola oil</string>
+		<string>quinoa</string>
+		<string>pinto beans</string>
+		<string>panko bread crumbs</string>
+		<string>brown sugar</string>
+		<string>baking soda</string>
+		<string>all-purpose flour</string>
+		<string>crushed red pepper</string>
+		<string>oregano</string>
+		<string>thyme</string>
+		<string>nutmeg</string>
+		<string>cinnamon rolls</string>
+		<string>turmeric</string>
+		<string>cayenne</string>
+		<string>paprika</string>
+		<string>bay leaves</string>
+		<string>cumin</string>
+		<string>Costco</string>
+		<string>Krogers</string>
+		<string>Publix</string>
+		<string>Whole Foods</string>
+		<string>Trader Joes</string>
+		<string>Aldi</string>
+		<string>gnocchi</string>
+		<string>slow cooker</string>
+		<string>ribeye</string>
+		<string>zucchini boats</string>
+		<string>Cuban sandwich</string>
+		<string>pita pocket</string>
+		<string>chicken piccata</string>
+		<string>veal parmesan</string>
+		<string>tater tots</string>
+		<string>breakfast taco</string>
+		<string>omelet</string>
+		<string>crepes</string>
+		<string>waffles</string>
+		<string>french toast</string>
+		<string>shrimp scampi</string>
+		<string>italian sausage</string>
+		<string>honey chicken</string>
+		<string>casserole</string>
+		<string>stromboli</string>
+		<string>panini</string>
+		<string>taco salad</string>
+		<string>quesadilla</string>
+		<string>quiche</string>
+		<string>shepherd&apos;s pie</string>
+		<string>goulash</string>
+		<string>vegetable soup</string>
+		<string>turkey club</string>
+		<string>BLT</string>
+		<string>french onion soup</string>
+		<string>cheeseburger soup</string>
+		<string>tomato bisque</string>
+		<string>clam chowder</string>
+		<string>chili</string>
+		<string>minestrone</string>
+		<string>pesto sauce</string>
+		<string>manicotti</string>
+		<string>fettucine alfredo</string>
+		<string>stuffed shells</string>
+		<string>baked ziti</string>
+		<string>blackened fish</string>
+		<string>tilapia</string>
+		<string>fish sticks</string>
+		<string>crab cakes</string>
+		<string>bay scallops</string>
+		<string>stuffed green pepper</string>
+		<string>egg roll</string>
+		<string>calzone</string>
+		<string>corn dog</string>
+		<string>twice-baked potatoes</string>
+		<string>medium rare steak</string>
+		<string>pork tenderloin</string>
+		<string>beef and broccoli</string>
+		<string>meatball subs</string>
+		<string>chimichangas</string>
+		<string>pork chops</string>
+		<string>cilantro</string>
+		<string>orange chicken</string>
+		<string>curry</string>
+		<string>jambalaya</string>
+		<string>loaded potatoes</string>
+		<string>tortellini</string>
+		<string>french dip</string>
+		<string>BBQ ribs</string>
+		<string>pot roast</string>
+		<string>pulled chicken</string>
+		<string>bowtie pasta</string>
+		<string>sloppy joe</string>
+		<string>footlong hotdog</string>
+		<string>veggie burger</string>
+		<string>sizzling fajitas</string>
+		<string>burrito</string>
+		<string>tostadas</string>
+		<string>huevos rancheros</string>
+		<string>Barilla</string>
+		<string>Monster Energy</string>
+		<string>Red Bull</string>
+		<string>Hershey</string>
+		<string>Campbell Soup</string>
+		<string>Kelloggs</string>
+		<string>General Mills</string>
+		<string>Kraft Heinz</string>
+		<string>Coca-Cola</string>
+		<string>Mars</string>
+		<string>Nestle</string>
+		<string>Pepsi</string>
+		<string>Duff&apos;s Famous Wings</string>
+		<string>Rainforest Cafe</string>
+		<string>The Melting Pot</string>
+		<string>Buca di Beppo</string>
+		<string>Fuddruckers</string>
+		<string>Johnny Rockets</string>
+		<string>Hard Rock Cafe</string>
+		<string>Sbarro</string>
+		<string>Friendly&apos;s</string>
+		<string>Smashburger</string>
+		<string>Benihana</string>
+		<string>Blaze Pizza</string>
+		<string>Texas de Brazil</string>
+		<string>Cold Stone Creamery</string>
+		<string>Chuck E. Cheese pizza</string>
+		<string>Charleys Philly Steaks</string>
+		<string>Shake Shack</string>
+		<string>Jamba Juice</string>
+		<string>Dutch Bros</string>
+		<string>Boston Market</string>
+		<string>Auntie Anne&apos;s</string>
+		<string>Perkins</string>
+		<string>Baskin-Robbins</string>
+		<string>Carrabba&apos;s</string>
+		<string>Ruby Tuesday</string>
+		<string>Moe&apos;s Southwest Grill</string>
+		<string>Hooters</string>
+		<string>Krispy Kreme</string>
+		<string>Qdoba</string>
+		<string>Bob Evans</string>
+		<string>P.F. Chang&apos;s</string>
+		<string>In-N-Out Burger</string>
+		<string>Steak &apos;n Shake</string>
+		<string>Jersey Mike&apos;s</string>
+		<string>TGI Fridays</string>
+		<string>Raising Cane&apos;s</string>
+		<string>Waffle House</string>
+		<string>Red Robin</string>
+		<string>Five Guys</string>
+		<string>The Cheesecake Factory</string>
+		<string>Cracker Barrel</string>
+		<string>Outback Steakhouse</string>
+		<string>Denny&apos;s</string>
+		<string>Texas Roadhouse</string>
+		<string>Popeyes Louisiana Kitchen</string>
+		<string>IHOP</string>
+		<string>Jack in the Box</string>
+		<string>Chili&apos;s</string>
+		<string>Panda Express</string>
+		<string>Dairy Queen</string>
+		<string>Buffalo Wild Wings</string>
+		<string>Arby&apos;s</string>
+		<string>Applebees</string>
+		<string>KFC</string>
+		<string>Sonic Drive-In</string>
+		<string>Pizza Hut</string>
+		<string>Panera Bread</string>
+		<string>Domino&apos;s</string>
+		<string>Dunkin&apos; Donuts</string>
+		<string>Burger King</string>
+		<string>Chick-fil-A</string>
+		<string>Taco Bell</string>
+		<string>Subway</string>
+		<string>tofu</string>
+		<string>prosciutto</string>
+		<string>chicken rollatini</string>
+		<string>fruit smoothie</string>
+		<string>Philly cheesesteak</string>
+		<string>aioli</string>
+		<string>spicy mustard</string>
+		<string>paprika</string>
+		<string>half and half</string>
+		<string>apple juice</string>
+		<string>Goldfish</string>
+		<string>kettle corn</string>
+		<string>shrimp cocktail</string>
+		<string>deviled eggs</string>
+		<string>mozzarella sticks</string>
+		<string>shakshuka</string>
+		<string>ramen</string>
+		<string>Asian stir-fry</string>
+		<string>butter chicken</string>
+		<string>Whopper</string>
+		<string>chicken souvlaki</string>
+		<string>pad thai</string>
+		<string>curly fries</string>
+		<string>coconut water</string>
+		<string>ham and swiss</string>
+		<string>Hawaiian sweet rolls</string>
+		<string>all-purpose flour</string>
+		<string>red lentils</string>
+		<string>beef stock</string>
+		<string>caprese sandwich</string>
+		<string>couscous</string>
+		<string>garden vegetable cream cheese</string>
+		<string>blueberry muffin</string>
+		<string>mimosa</string>
+		<string>fresh squeezed lemonade</string>
+		<string>vegetarian </string>
+		<string>snow crab legs</string>
+		<string>extra virgin olive oil</string>
+		<string>italian dressing</string>
+		<string>I Can&apos;t Believe It&apos;s Not Butter</string>
+		<string>vodka sauce</string>
+		<string>macaroni salad</string>
+		<string>tri-color rotini</string>
+		<string>brown rice</string>
+		<string>green bell pepper</string>
+		<string>vegetable broth</string>
+		<string>bread crumbs</string>
+		<string>stewed tomatoes</string>
+		<string>white cheddar pierogi</string>
+		<string>lime</string>
+		<string>seafood boil</string>
+		<string>roast beef</string>
+		<string>fruit salad</string>
+		<string>lettuce wraps</string>
+		<string>meat loaf</string>
+		<string>crushed red pepper</string>
+		<string>oat milk</string>
+		<string>applesauce</string>
+		<string>cocoa powder</string>
+		<string>dinner menu</string>
+		<string>garbage plate</string>
+		<string>maple syrup</string>
+		<string>Diet Pepsi</string>
+		<string>boston cream donut</string>
+		<string>naan bread</string>
+		<string>kebabs</string>
+		<string>Mighty Taco</string>
+		<string>BBQ pulled pork</string>
+		<string>carrots and celery</string>
+		<string>hot boneless wings</string>
+		<string>blooming onion</string>
+		<string>beef stroganoff</string>
+		<string>green bean casserole</string>
+		<string>nachos</string>
+		<string>california roll</string>
+		<string>Kraft Macaroni and Cheese</string>
+		<string>turkey sub</string>
+		<string>stuffing</string>
+		<string>orange juice</string>
+		<string>eggs benedict</string>
+		<string>biscuits and gravy</string>
+		<string>antipasto</string>
+		<string>caesar salad</string>
+		<string>chicken fingers</string>
+		<string>Chipotle Mexican Grill</string>
+		<string>Flamin&apos; Hot Cheetos</string>
+		<string>everything bagel</string>
+		<string>alfredo sauce</string>
+		<string>chicken pot pie</string>
+		<string>puff pastry</string>
+		<string>enchiladas</string>
+		<string>banana bread</string>
+		<string>chocolate chip cookies</string>
+		<string>vanilla milkshake</string>
+		<string>grilled cheese and tomato soup</string>
+		<string>garlic</string>
+		<string>Red Lobster cheddar biscuits</string>
+		<string>hashbrown</string>
+		<string>kiwi</string>
+		<string>raspberry</string>
+		<string>tuna melt</string>
+		<string>white mushrooms</string>
+		<string>turtle cheesecake</string>
+		<string>concession stand</string>
+		<string>Olive Garden breadsticks</string>
+		<string>Honey Nut Cheerios</string>
+		<string>Hershey Kiss</string>
+		<string>Beyond Burger</string>
+		<string>alfalfa sprouts</string>
+		<string>Atlantic salmon</string>
+		<string>dill pickle</string>
+		<string>fresh parsley</string>
+		<string>breakfast sandwich</string>
+		<string>chicken noodle soup</string>
+		<string>stuffed banana pepper</string>
+		<string>spinach and feta</string>
+		<string>fish and chips</string>
+		<string>eggs and toast</string>
+		<string>margarita</string>
+		<string>silverware</string>
+		<string>Wegmans</string>
+		<string>Starbucks</string>
+		<string>Tim Hortons</string>
+		<string>chai tea</string>
+		<string>Wendys</string>
+		<string>surf and turf</string>
+		<string>peanut butter and jelly</string>
+		<string>angel hair pasta</string>
+		<string>Hot Pocket</string>
+		<string>Doritos</string>
+		<string>double cheeseburger</string>
+		<string>cheese ravioli</string>
+		<string>spaghetti and meatballs</string>
+		<string>bleu cheese</string>
+		<string>chips and queso</string>
+		<string>eggplant parm</string>
+		<string>White Claw</string>
+		<string>cauliflower rice</string>
+		<string>birria tacos</string>
+		<string>chicken wing dip</string>
+		<string>Bud Light Beer</string>
+		<string>Dole Whip</string>
+		<string>pepperoni pizza</string>
+		<string>strawberry shortcake</string>
+		<string>lasagna</string>
+		<string>McDonalds</string>
+		<string>Pringles</string>
+		<string>salt and pepper</string>
+		<string>asparagus</string>
+		<string>American cheese</string>
+	</array>
+	<key>variety</key>
+	<array>
+		<string>yoga class</string>
+		<string>tropical storm</string>
+		<string>senior prom</string>
+		<string>pediatrician</string>
+		<string>peace offering</string>
+		<string>shy away</string>
+		<string>U.S. Senate</string>
+		<string>hear hear</string>
+		<string>going in circles</string>
+		<string>blowing bubbles</string>
+		<string>barracuda</string>
+		<string>bird&apos;s eye view</string>
+		<string>jumping jacks</string>
+		<string>pipe down</string>
+		<string>vampire</string>
+		<string>amphibian</string>
+		<string>Election Day</string>
+		<string>ignorance is bliss</string>
+		<string>psychopath</string>
+		<string>shopaholic</string>
+		<string>recycle</string>
+		<string>lo and behold</string>
+		<string>crisscross</string>
+		<string>viral</string>
+		<string>split ends</string>
+		<string>under arrest</string>
+		<string>calico cat</string>
+		<string>alpaca</string>
+		<string>two cents worth</string>
+		<string>thumb war</string>
+		<string>slippery slope</string>
+		<string>T-rex</string>
+		<string>401K</string>
+		<string>flamingo</string>
+		<string>planetarium</string>
+		<string>higher education</string>
+		<string>Daytona 500</string>
+		<string>generosity</string>
+		<string>street smart</string>
+		<string>back handspring</string>
+		<string>swag</string>
+		<string>lobotomy</string>
+		<string>payroll</string>
+		<string>close-knit</string>
+		<string>cheetah</string>
+		<string>double or nothing</string>
+		<string>ebb and flow</string>
+		<string>spelling bee</string>
+		<string>tornado</string>
+		<string>fishing</string>
+		<string>grizzly bear</string>
+		<string>persevere</string>
+		<string>with ease</string>
+		<string>more the merrier</string>
+		<string>gorilla</string>
+		<string>against all odds</string>
+		<string>rock bottom</string>
+		<string>peace sign</string>
+		<string>demolition derby</string>
+		<string>bellyache</string>
+		<string>Feliz Navidad</string>
+		<string>full speed ahead</string>
+		<string>surrender</string>
+		<string>second opinion</string>
+		<string>fair play</string>
+		<string>miss the point</string>
+		<string>hole-in-one</string>
+		<string>cloning</string>
+		<string>flesh and blood</string>
+		<string>no problem</string>
+		<string>tightwad</string>
+		<string>rip to shreds</string>
+		<string>last call</string>
+		<string>summer</string>
+		<string>alma mater</string>
+		<string>learn the ropes</string>
+		<string>prima-donna</string>
+		<string>zip your lips</string>
+		<string>heebie jeebies</string>
+		<string>lunch date</string>
+		<string>praying mantis</string>
+		<string>track meet</string>
+		<string>lottery</string>
+		<string>clear your throat</string>
+		<string>pelican</string>
+		<string>Superbowl</string>
+		<string>homerun</string>
+		<string>fire drill</string>
+		<string>komodo dragon</string>
+		<string>spur of the moment</string>
+		<string>shuffle</string>
+		<string>smiley face</string>
+		<string>juggling</string>
+		<string>foot the bill</string>
+		<string>live stream</string>
+		<string>oopsy-daisy</string>
+		<string>keep mum</string>
+		<string>above and beyond</string>
+		<string>bride and groom</string>
+		<string>light as a feather</string>
+		<string>Three Blind Mice</string>
+		<string>truth or dare</string>
+		<string>rain check</string>
+		<string>illness</string>
+		<string>trojan horse</string>
+		<string>ladybug</string>
+		<string>break a leg</string>
+		<string>once in a blue moon</string>
+		<string>stir the pot</string>
+		<string>counterfeit</string>
+		<string>revenge</string>
+		<string>Milky Way Galaxy</string>
+		<string>good mood</string>
+		<string>prime number</string>
+		<string>Simon Says</string>
+		<string>April showers</string>
+		<string>get well soon</string>
+		<string>loophole</string>
+		<string>teamwork</string>
+		<string>purple</string>
+		<string>blizzard</string>
+		<string>haunted house</string>
+		<string>ASPCA</string>
+		<string>cold turkey</string>
+		<string>rat race</string>
+		<string>nationalism</string>
+		<string>triathlon</string>
+		<string>social butterfly</string>
+		<string>epic</string>
+		<string>blackjack</string>
+		<string>slow motion</string>
+		<string>aquarium</string>
+		<string>crocodile tears</string>
+		<string>stem cells</string>
+		<string>naked eye</string>
+		<string>powerpoint</string>
+		<string>basket case</string>
+		<string>private school</string>
+		<string>insider trading</string>
+		<string>fairy tale</string>
+		<string>weightlifting</string>
+		<string>conspiracy theory</string>
+		<string>intermission</string>
+		<string>orangutan</string>
+		<string>plaintiff</string>
+		<string>at wit&apos;s end</string>
+		<string>fool&apos;s gold</string>
+		<string>rolling in dough</string>
+		<string>bad egg</string>
+		<string>anxiety</string>
+		<string>roommates</string>
+		<string>bed and breakfast</string>
+		<string>bucket list</string>
+		<string>balancing act</string>
+		<string>fluffernutter</string>
+		<string>heads up</string>
+		<string>sympathy card</string>
+		<string>small print</string>
+		<string>squeaky clean</string>
+		<string>happy-go-lucky</string>
+		<string>blank stare</string>
+		<string>hoarder</string>
+		<string>mall rat</string>
+		<string>leave of absence</string>
+		<string>for sale</string>
+		<string>backseat driver</string>
+		<string>bachelor&apos;s degree</string>
+		<string>asthma</string>
+		<string>hit and run</string>
+		<string>good samaritan</string>
+		<string>elephant</string>
+		<string>ocelot</string>
+		<string>giraffe</string>
+		<string>ferret</string>
+		<string>lemur</string>
+		<string>otter</string>
+		<string>poodle</string>
+		<string>squirrel</string>
+		<string>jellyfish</string>
+		<string>trout</string>
+		<string>swan</string>
+		<string>gecko</string>
+		<string>leopard</string>
+		<string>walrus</string>
+		<string>koala</string>
+		<string>cobra</string>
+		<string>fox</string>
+		<string>beluga whale</string>
+		<string>donkey</string>
+		<string>zebra</string>
+		<string>goose</string>
+		<string>rabbit</string>
+		<string>rooster</string>
+		<string>Daddy Long Legs</string>
+		<string>porcupine</string>
+		<string>lobster</string>
+		<string>tortoise</string>
+		<string>skunk</string>
+		<string>octopus</string>
+		<string>anaconda</string>
+		<string>raccoon</string>
+		<string>polar bear</string>
+		<string>alligator</string>
+		<string>hamster</string>
+		<string>RN</string>
+		<string>software developer</string>
+		<string>hairdresser</string>
+		<string>manager</string>
+		<string>cashier</string>
+		<string>janitor</string>
+		<string>bartender</string>
+		<string>server</string>
+		<string>retail job</string>
+		<string>customer service</string>
+		<string>physician</string>
+		<string>medical assistant</string>
+		<string>dentist</string>
+		<string>construction worker</string>
+		<string>mechanic</string>
+		<string>carpenter</string>
+		<string>police officer</string>
+		<string>attorney</string>
+		<string>adorable</string>
+		<string>agreeable</string>
+		<string>adventerous</string>
+		<string>annoying</string>
+		<string>clumsy</string>
+		<string>enthusiastic</string>
+		<string>expensive</string>
+		<string>witty</string>
+		<string>short-tempered</string>
+		<string>self-centered</string>
+		<string>thought provoking</string>
+		<string>fraidy cat</string>
+		<string>vitamin C</string>
+		<string>jack of all trades</string>
+		<string>congressman</string>
+		<string>flunk out</string>
+		<string>Murphy&apos;s Law</string>
+		<string>soft spoken</string>
+		<string>crack a joke</string>
+		<string>family heirloom</string>
+		<string>happy hour</string>
+		<string>active duty</string>
+		<string>food poisoning</string>
+		<string>bank robber</string>
+		<string>open house</string>
+		<string>unemployment</string>
+		<string>undergraduate</string>
+		<string>get over yourself</string>
+		<string>research paper</string>
+		<string>forbidden fruit</string>
+		<string>hung out to dry</string>
+		<string>rehearsal</string>
+		<string>call your bluff</string>
+		<string>stepmother</string>
+		<string>independent</string>
+		<string>envious</string>
+		<string>part time job</string>
+		<string>philosopher</string>
+		<string>change of heart</string>
+		<string>fake I.D.</string>
+		<string>balance of power</string>
+		<string>lose your lunch</string>
+		<string>obedient</string>
+		<string>social security</string>
+		<string>buzz cut</string>
+		<string>architect</string>
+		<string>value menu</string>
+		<string>in a rut</string>
+		<string>shark bite</string>
+		<string>communist</string>
+		<string>loose screw</string>
+		<string>lie detector</string>
+		<string>whistle-blower</string>
+		<string>overdraft fee</string>
+		<string>stomach flu</string>
+		<string>common cold</string>
+		<string>swimmer&apos;s ear</string>
+		<string>pink eye</string>
+		<string>mononucleosis</string>
+		<string>hypertension</string>
+		<string>Alzheimer&apos;s</string>
+		<string>depression</string>
+		<string>arthritis</string>
+		<string>COPD</string>
+		<string>heart disease</string>
+		<string>pillow fight</string>
+		<string>whirlwind romance</string>
+		<string>take care</string>
+		<string>think big</string>
+		<string>cream of the crop</string>
+		<string>headhunter</string>
+		<string>commuting</string>
+		<string>love handles</string>
+		<string>absentee balllot</string>
+		<string>rowing</string>
+		<string>cheerleading</string>
+		<string>tumbling</string>
+		<string>eclipse</string>
+		<string>rainbow</string>
+		<string>beehive</string>
+		<string>fog</string>
+		<string>wasp</string>
+		<string>scorpion</string>
+		<string>salamander</string>
+		<string>dolphin</string>
+		<string>frog</string>
+		<string>platypus</string>
+		<string>eagle</string>
+		<string>cowboy</string>
+		<string>mailman</string>
+		<string>girl scout</string>
+		<string>baker</string>
+		<string>skip</string>
+		<string>burpee</string>
+		<string>cook from scratch</string>
+		<string>deep sleep</string>
+		<string>gardening</string>
+		<string>text</string>
+		<string>snore</string>
+		<string>recycle</string>
+		<string>black hole</string>
+		<string>applause</string>
+		<string>time machine</string>
+		<string>Monday</string>
+		<string>century</string>
+		<string>chuckle</string>
+		<string>sneeze</string>
+		<string>baby</string>
+		<string>jump</string>
+		<string>hiccup</string>
+		<string>stomp</string>
+		<string>ghost</string>
+		<string>slither</string>
+		<string>measure</string>
+		<string>overwhelmed</string>
+		<string>stuck-up</string>
+		<string>horseback riding</string>
+		<string>figure skating</string>
+		<string>hyena</string>
+		<string>caterpillar</string>
+		<string>cockroach</string>
+		<string>intern</string>
+		<string>state fair</string>
+		<string>campsite</string>
+		<string>whirl</string>
+		<string>step-daughter</string>
+		<string>piracy</string>
+		<string>nutrient</string>
+		<string>leisure</string>
+		<string>group activity</string>
+		<string>gemstone</string>
+		<string>second cousin</string>
+		<string>kiosk</string>
+		<string>BFF</string>
+		<string>rhetoric</string>
+		<string>advertisement</string>
+		<string>sum</string>
+		<string>keepsake</string>
+		<string>superpower</string>
+		<string>result</string>
+		<string>sabotage</string>
+		<string>black belt</string>
+		<string>volcano</string>
+		<string>stilts</string>
+		<string>amateur</string>
+		<string>chip on your shoulder</string>
+		<string>big fish in a small pond</string>
+		<string>splitting image</string>
+		<string>go against the grain</string>
+		<string>eat my words</string>
+		<string>beat around the bush</string>
+		<string>at arm&apos;s length</string>
+		<string>get a grip</string>
+		<string>hold down the fort</string>
+		<string>on the same page</string>
+		<string>come full circle</string>
+		<string>out and about</string>
+		<string>in a jam</string>
+		<string>skeleton in the closet</string>
+		<string>baker&apos;s dozen</string>
+		<string>lay low</string>
+		<string>fly on the wall</string>
+		<string>icing on the cake</string>
+		<string>kiss and tell</string>
+		<string>like and subscribe</string>
+		<string>once and for all</string>
+		<string>loosen</string>
+		<string>murmur</string>
+		<string>feminine</string>
+		<string>visible</string>
+		<string>well-documented</string>
+		<string>parallel</string>
+		<string>oily</string>
+		<string>petite</string>
+		<string>puzzled</string>
+		<string>solstice</string>
+		<string>August</string>
+		<string>Rottweiler</string>
+		<string>Chihuahua</string>
+		<string>nostalgic</string>
+		<string>punctuation</string>
+		<string>trope</string>
+		<string>turquoise blue</string>
+		<string>Venn diagram</string>
+		<string>karat</string>
+		<string>numerator</string>
+		<string>harmony</string>
+		<string>NASA</string>
+		<string>Jupiter</string>
+		<string>biologist</string>
+		<string>electromagnetic</string>
+		<string>bacteria</string>
+		<string>calligraphy</string>
+		<string>cubism</string>
+		<string>watercolor</string>
+		<string>compliment</string>
+		<string>scuba diving</string>
+		<string>hostel</string>
+		<string>itinerary</string>
+		<string>cruise</string>
+		<string>unpack</string>
+		<string>getaway</string>
+		<string>GPS</string>
+		<string>VIP</string>
+		<string>preteen</string>
+		<string>midwife</string>
+		<string>great-grandmother</string>
+		<string>priest</string>
+		<string>linebacker</string>
+		<string>fumble</string>
+		<string>evaporation</string>
+		<string>seahorse</string>
+		<string>clownfish</string>
+		<string>bumblebee</string>
+		<string>daisy</string>
+		<string>scuff mark</string>
+		<string>log-in</string>
+		<string>chairman</string>
+		<string>snooze</string>
+		<string>ski lift</string>
+		<string>hermit crab</string>
+		<string>cliff jumping</string>
+		<string>icicle</string>
+		<string>dead end</string>
+		<string>prime meridian</string>
+		<string>somersault</string>
+		<string>good as gold</string>
+		<string>head over heels</string>
+		<string>dropping like flies</string>
+		<string>in your dreams</string>
+		<string>like pulling teeth</string>
+		<string>behind the times</string>
+		<string>outside the box</string>
+		<string>touchdown</string>
+		<string>wedding</string>
+		<string>niece</string>
+		<string>taxi</string>
+		<string>collage</string>
+		<string>laminate</string>
+		<string>incident</string>
+		<string>mascot</string>
+		<string>resident</string>
+		<string>parkour</string>
+		<string>free throw</string>
+		<string>ogre</string>
+		<string>population</string>
+		<string>clockwork</string>
+		<string>statistics</string>
+		<string>telemedicine</string>
+		<string>doppelganger</string>
+		<string>fad</string>
+		<string>layover</string>
+		<string>pen pal</string>
+		<string>inning</string>
+		<string>dud</string>
+		<string>leap year</string>
+		<string>galaxy</string>
+		<string>zip code</string>
+		<string>guru</string>
+		<string>comparison</string>
+		<string>clue</string>
+		<string>interfere</string>
+		<string>portfolio</string>
+		<string>mourn</string>
+		<string>truce</string>
+		<string>bald</string>
+		<string>playing an instrument</string>
+		<string>painting your nails</string>
+		<string>birthday present</string>
+		<string>cross-examine</string>
+		<string>boutique</string>
+		<string>comfort zone</string>
+		<string>translate</string>
+		<string>a cappella</string>
+		<string>herbivore</string>
+		<string>enunciate</string>
+		<string>silhouette</string>
+		<string>vandalize</string>
+	</array>
+	<key>popCulture</key>
+	<array>
+		<string>Junie B. Jones</string>
+		<string>The Princess Diaries</string>
+		<string>The Chronicles of Narnia</string>
+		<string>Moana</string>
+		<string>Alice in Wonderland</string>
+		<string>Pippin</string>
+		<string>Royal Wedding</string>
+		<string>&quot;On Wednesdays we wear pink!&quot;</string>
+		<string>Are You The One?</string>
+		<string>Ozark</string>
+		<string>Coachella</string>
+		<string>Free Britney</string>
+		<string>YouTube</string>
+		<string>Academy Awards</string>
+		<string>red carpet</string>
+		<string>blooper</string>
+		<string>Avatar</string>
+		<string>Chicken Little</string>
+		<string>Itsy Bitsy Spider</string>
+		<string>Pixar</string>
+		<string>Green Eggs and Ham</string>
+		<string>Disney Channel</string>
+		<string>Wikipedia</string>
+		<string>Gucci</string>
+		<string>Vogue</string>
+		<string>Vanity Fair</string>
+		<string>The Simpsons</string>
+		<string>Black-Eyed Peas</string>
+		<string>The Beatles</string>
+		<string>Mamma Mia</string>
+		<string>iTunes</string>
+		<string>The Magic School Bus</string>
+		<string>Mickey Mouse</string>
+		<string>Omegle</string>
+		<string>Hansel and Gretel</string>
+		<string>Tiktok</string>
+		<string>Brangelina</string>
+		<string>The Kardashians</string>
+		<string>Harry Potter</string>
+		<string>&quot;You&apos;re Fired&quot;</string>
+		<string>American Idol</string>
+		<string>influencers</string>
+		<string>Project X</string>
+		<string>Charlie&apos;s Angels</string>
+		<string>Finding Nemo</string>
+		<string>IMAX</string>
+		<string>SpongeBob SquarePants</string>
+		<string>Hello Dolly</string>
+		<string>NYT Best Seller</string>
+		<string>Got Milk?</string>
+		<string>LOL</string>
+		<string>Garfield</string>
+		<string>ghostwriter</string>
+		<string>The Great Gatsby</string>
+		<string>touch screen</string>
+		<string>The Dark Knight</string>
+		<string>flip phone</string>
+		<string>Depp v. Heard</string>
+		<string>The Office</string>
+		<string>One Tree Hill</string>
+		<string>La La Land</string>
+		<string>Flappy Bird</string>
+		<string>&quot;Thank U, Next&quot;</string>
+		<string>Spider-Man: No Way Home</string>
+		<string>Fyre Festival</string>
+		<string>One Direction</string>
+		<string>Pitch Perfect</string>
+		<string>That&apos;s So Suite Life of Hannah Montana</string>
+		<string>The Bachelor</string>
+		<string>Real Housewives</string>
+		<string>Astroworld</string>
+		<string>Bennifer</string>
+		<string>&quot;Material Girl&quot;</string>
+		<string>Titanic</string>
+		<string>Marvel</string>
+		<string>Gone with the Wind</string>
+		<string>General Hospital</string>
+		<string>Humpty Dumpty</string>
+		<string>Scooby-Doo</string>
+		<string>Jonas Brothers</string>
+		<string>Lifetime</string>
+		<string>Biggest Loser</string>
+		<string>podcast</string>
+		<string>Grease</string>
+		<string>Goldilocks</string>
+		<string>TMZ</string>
+		<string>Extreme Makeover</string>
+		<string>Freddy Krueger</string>
+		<string>Scream</string>
+		<string>Jersey Shore</string>
+		<string>Swifties</string>
+		<string>The Twilight Saga</string>
+		<string>Seven Dwarfs</string>
+		<string>Tommy Hilfiger</string>
+		<string>Sleeping Beauty</string>
+		<string>Nickelodeon</string>
+		<string>Big Brother</string>
+		<string>Friends</string>
+		<string>Goo Goo Dolls</string>
+		<string>&quot;Whatcha talkin&apos; bout Willis&quot;</string>
+		<string>Blockbuster</string>
+		<string>The Sopranos</string>
+		<string>Sixteen Candles</string>
+		<string>McDreamy</string>
+		<string>Tinder</string>
+		<string>Saturday Night Live</string>
+		<string>Rick and Morty</string>
+		<string>Gossip Girl</string>
+		<string>Rocky Balboa</string>
+		<string>Netflix</string>
+		<string>Dora the Explorer</string>
+		<string>PG-13</string>
+		<string>&quot;Born This Way&quot;</string>
+		<string>Catching Fire</string>
+		<string>Snapchat</string>
+		<string>Jeopardy</string>
+		<string>Mona Lisa</string>
+		<string>paparazzi</string>
+		<string>The View</string>
+		<string>Chanel</string>
+		<string>Glee</string>
+		<string>Ferris Bueller</string>
+		<string>Google</string>
+		<string>cinematography</string>
+		<string>King Kong</string>
+		<string>Donald Duck</string>
+		<string>Charlie Brown</string>
+		<string>Yellow Pages</string>
+		<string>&quot;Run, Forest, Run!&quot;</string>
+		<string>To Kill a Mockingbird</string>
+		<string>Judge Judy</string>
+		<string>Black Mirror</string>
+		<string>chick flick</string>
+		<string>Broadway</string>
+		<string>The Starry Night</string>
+		<string>&quot;As if!&quot;</string>
+		<string>Darth Vader</string>
+		<string>American Horror Story</string>
+		<string>Ronald McDonald</string>
+		<string>Carrie Bradshaw</string>
+		<string>Girl with a Pearl Earring</string>
+		<string>Da Vinci Code</string>
+		<string>Fifty Shades of Grey</string>
+		<string>Lord of the Flies</string>
+		<string>Pink Floyd</string>
+		<string>Pulp Fiction</string>
+		<string>Jurassic Park</string>
+		<string>Joker</string>
+		<string>Freaks and Geeks</string>
+		<string>Seinfeld</string>
+		<string>Marty McFly</string>
+		<string>Victoria&apos;s Secret Fashion Show</string>
+		<string>The Shawshank Redemption</string>
+		<string>The Godfather</string>
+		<string>Schindler&apos;s List</string>
+		<string>The Lord of the Rings</string>
+		<string>Forrest Gump</string>
+		<string>Fight Club</string>
+		<string>Inception</string>
+		<string>The Matrix</string>
+		<string>Goodfellas</string>
+		<string>The Silence of the Lambs</string>
+		<string>Back to the Future</string>
+		<string>Star Wars</string>
+		<string>Parasite</string>
+		<string>The Lion King</string>
+		<string>Casablanca</string>
+		<string>Alien</string>
+		<string>Gremlins</string>
+		<string>Matilda</string>
+		<string>Clueless</string>
+		<string>Memento</string>
+		<string>WALL-E</string>
+		<string>The Shining</string>
+		<string>Avengers: Infinity War</string>
+		<string>Everything Everywhere All at Once</string>
+		<string>Braveheart </string>
+		<string>Toy Story</string>
+		<string>Coco</string>
+		<string>Inglourious Basterds</string>
+		<string>Hamilton</string>
+		<string>Up</string>
+		<string>Die Hard</string>
+		<string>Indiana Jones</string>
+		<string>Batman</string>
+		<string>Karate Kid</string>
+		<string>The Wolf of Wall Street</string>
+		<string>Labyrinth</string>
+		<string>The Sixth Sense</string>
+		<string>Stand by Me</string>
+		<string>A Beautiful Mind</string>
+		<string>Monty Python and the Holy Grail</string>
+		<string>The Truman Show</string>
+		<string>Shutter Island</string>
+		<string>Kill Bill</string>
+		<string>Inside Out</string>
+		<string>Gone Girl</string>
+		<string>Monsters, Inc.</string>
+		<string>Jaws</string>
+		<string>Hotel Rwanda</string>
+		<string>Dead Poets Society</string>
+		<string>The Terminator</string>
+		<string>Ratatouille</string>
+		<string>The Wizard of Oz</string>
+		<string>The Exorcist</string>
+		<string>The Incredibles</string>
+		<string>Pirates of the Caribbean</string>
+		<string>The Sound of Music</string>
+		<string>Aladdin</string>
+		<string>Beauty and the Beast</string>
+		<string>Breaking Bad</string>
+		<string>Planet Earth</string>
+		<string>Game of Thrones</string>
+		<string>The Twilight Zone</string>
+		<string>How I Met Your Mother</string>
+		<string>Nathan for You</string>
+		<string>It&apos;s Always Sunny in Philadelphia</string>
+		<string>Curb Your Enthusiasm</string>
+		<string>Squid Games</string>
+		<string>Chappelle&apos;s Show</string>
+		<string>Succession</string>
+		<string>South Park</string>
+		<string>Peaky Blinders</string>
+		<string>Ted Lasso</string>
+		<string>The Mandalorian</string>
+		<string>House</string>
+		<string>Stranger Things</string>
+		<string>House of Cards</string>
+		<string>The Crown</string>
+		<string>Dexter</string>
+		<string>This Is Us</string>
+		<string>Adventure Time</string>
+		<string>The Haunting of Hill House</string>
+		<string>Orange is the New Black</string>
+		<string>The Queen&apos;s Gambit</string>
+		<string>Impractical Jokers</string>
+		<string>Shameless</string>
+		<string>Trailer Park Boys</string>
+		<string>Schitt&apos;s Creek</string>
+		<string>Wentworth</string>
+		<string>X-Men</string>
+		<string>Queer Eye</string>
+		<string>James Bond</string>
+		<string>Superman</string>
+		<string>Bugs Bunny</string>
+		<string>Dorothy Gale</string>
+		<string>Peter Pan</string>
+		<string>Han Solo</string>
+		<string>Barbie</string>
+		<string>Godzilla</string>
+		<string>Winnie-the-Pooh</string>
+		<string>Popeye</string>
+		<string>Jon Snow</string>
+		<string>Norman Bates</string>
+		<string>E.T.</string>
+		<string>Fred Flintstone</string>
+		<string>Atticus Finch</string>
+		<string>Kermit the Frog</string>
+		<string>Yoda</string>
+		<string>Mary Poppins</string>
+		<string>Mario</string>
+		<string>The Grinch</string>
+		<string>Willy Wonka</string>
+		<string>The Hulk</string>
+		<string>Edward Scissorhands</string>
+		<string>Pikachu</string>
+		<string>Michael Scott</string>
+		<string>Dwight Schrute</string>
+		<string>Where&apos;s Waldo</string>
+		<string>Ron Burgundy</string>
+		<string>Jason Voorhees</string>
+		<string>Michael Meyers</string>
+		<string>Betty Boop</string>
+		<string>Katniss Everdeen</string>
+		<string>Shrek</string>
+		<string>Sonic the Hedgehog </string>
+		<string>ABBA</string>
+		<string>The Beach Boys</string>
+		<string>The Legend of Zelda</string>
+		<string>I Spy</string>
+		<string>Minecraft</string>
+		<string>Animal Crossing</string>
+		<string>Super Mario Bros.</string>
+		<string>Candy Crush</string>
+		<string>Call of Duty</string>
+		<string>Monopoly</string>
+		<string>Grand Theft Auto</string>
+		<string>Madden NFL</string>
+		<string>Fortnite</string>
+		<string>&quot;The Twist&quot;</string>
+		<string>&quot;Uptown Funk&quot;</string>
+		<string>&quot;I Gotta Feeling&quot;</string>
+		<string>&quot;Macarena&quot;</string>
+		<string>&quot;Shape of You&quot;</string>
+		<string>&quot;Imagine&quot;</string>
+		<string>&quot;Billie Jean&quot;</string>
+		<string>&quot;Bohemian Rhapsody&quot;</string>
+		<string>&quot;Hey Jude&quot;</string>
+		<string>&quot;Creep&quot;</string>
+		<string>&quot;Dancing Queen&quot;</string>
+		<string>Rolling Stones</string>
+		<string>&quot;Single Ladies&quot;</string>
+		<string>&quot;Umbrella&quot;</string>
+		<string>&quot;Rolling in the Deep&quot;</string>
+		<string>&quot;Rehab&quot;</string>
+		<string>&quot;Hips Don&apos;t Lie&quot;</string>
+		<string>&quot;Hey Ya!&quot;</string>
+		<string>&quot;Call Me Maybe&quot;</string>
+		<string>&quot;Poker Face&quot;</string>
+		<string>&quot;Hollaback Girl&quot;</string>
+		<string>&quot;Bad Guy&quot;</string>
+		<string>&quot;Driver&apos;s License&quot;</string>
+		<string>&quot;Hotline Bling&quot;</string>
+		<string>&quot;Levitating&quot;</string>
+		<string>&quot;Despacito&quot;</string>
+		<string>Destiny&apos;s Child</string>
+		<string>&quot;American Boy&quot;</string>
+		<string>&quot;Gangnam Style&quot;</string>
+		<string>&quot;Party Rock Anthem&quot;</string>
+		<string>Hulu</string>
+		<string>The Oscars</string>
+		<string>Grammy Award</string>
+		<string>Twitter</string>
+		<string>Facebook</string>
+		<string>Myspace</string>
+		<string>Instagram</string>
+		<string>“May the Force be with you.”</string>
+		<string>“There&apos;s no place like home.”</string>
+		<string>“I&apos;ll be back.”</string>
+		<string>“My precious.”</string>
+		<string>“Just keep swimming.”</string>
+		<string>“Here&apos;s Johnny!”</string>
+		<string>“Nobody puts Baby in a corner.”</string>
+		<string>“To infinity and beyond!”</string>
+		<string>“You’re killin’ me, Smalls.” </string>
+		<string>MTV</string>
+		<string>Journey</string>
+		<string>The Spice Girls</string>
+		<string>Barney</string>
+		<string>The Mannequin Challenge</string>
+		<string>K-Pop</string>
+		<string>Sabrina the Teenage Witch</string>
+		<string>White Chicks</string>
+		<string>The Amazing Race</string>
+		<string>Edward Cullen</string>
+		<string>Bikini Bottom</string>
+		<string>“Life is like a box of chocolate”</string>
+		<string>Home Alone</string>
+		<string>A Christmas Story</string>
+		<string>The Polar Express</string>
+		<string>Frosty the Snowman</string>
+		<string>“All I Want for Christmas Is You”</string>
+		<string>The Nightmare Before Christmas</string>
+		<string>Gizmo</string>
+		<string>“I Saw Mommy Kissing Santa Claus”</string>
+		<string>TLC</string>
+		<string>Black Panther</string>
+		<string>Get Out</string>
+		<string>Midsommar</string>
+		<string>“Bye, Felicia”</string>
+		<string>The Bachelorette</string>
+		<string>Dancing with the  Stars</string>
+		<string>wardrobe malfunction</string>
+		<string>The Challenge</string>
+		<string>Family Feud</string>
+		<string>“Baby One More Time”</string>
+		<string>90210</string>
+		<string>Tiger King</string>
+		<string>The Price is Right</string>
+		<string>The Girls Next Door</string>
+		<string>Saved By The Bell</string>
+		<string>The Bee Gees</string>
+		<string>Mean Girls</string>
+		<string>The Notebook</string>
+		<string>Happy Gilmore</string>
+		<string>Too Hot To Handle</string>
+		<string>The Ultimatum</string>
+		<string>Love is Blind</string>
+		<string>Sonny with a Chance</string>
+		<string>Lizzie McGuire</string>
+		<string>Even Stevens</string>
+		<string>Phil of the Future</string>
+		<string>Hannah Montana</string>
+		<string>That&apos;s So Raven</string>
+		<string>The Suite Life on Deck</string>
+		<string>Wizards of Waverly Place</string>
+		<string>Beyoncé and Jay-Z</string>
+		<string>Blake Lively and Ryan Reynolds</string>
+		<string>Goldie Hawn and Kurt Russell</string>
+		<string>Chrissy Teigen and John Legend</string>
+		<string>Kimye</string>
+		<string>That 70&apos;s Show</string>
+		<string>Best Picture</string>
+		<string>The Hills</string>
+		<string>Laguna Beach</string>
+		<string>Full House</string>
+		<string>Ashton Kutcher and Mila Kunis</string>
+		<string>Playboy</string>
+		<string>Maroon 5</string>
+		<string>The Voice</string>
+		<string>Family Guy</string>
+		<string>Cards Against Humanity</string>
+		<string>High School Musical</string>
+		<string>Youtuber</string>
+		<string>Black Lives Matter</string>
+		<string>Zac Brown Band</string>
+		<string>Fleetwood Mac</string>
+		<string>Marcel the Shell</string>
+		<string>Forbes</string>
+		<string>&quot;Say So&quot;</string>
+		<string>Hocus Pocus</string>
+		<string>The Masked Singer</string>
+		<string>The Upside Down</string>
+		<string>Frozen</string>
+		<string>trick-or-treat</string>
+		<string>Bollywood</string>
+		<string>Comedy Central</string>
+		<string>Avengers: Endgame</string>
+		<string>&quot;Somebody That I Used to Know&quot;</string>
+		<string>Club Penguin</string>
+		<string>Habbo Hotel</string>
+		<string>Olympics</string>
+		<string>Amazon Prime</string>
+		<string>Hermione Granger</string>
+		<string>Iron Man</string>
+		<string>The Cat in the Hat</string>
+		<string>Charlotte&apos;s Web</string>
+		<string>Tarzan</string>
+		<string>Minions</string>
+		<string>Dracula</string>
+		<string>Robin Hood</string>
+		<string>Huckleberry Finn</string>
+		<string>Spock</string>
+		<string>Romeo and Juliet</string>
+		<string>Frankenstein</string>
+		<string>Pinocchio</string>
+		<string>Big Bird</string>
+		<string>Elsa</string>
+		<string>Olaf</string>
+		<string>Ariel</string>
+		<string>Simba</string>
+		<string>Cinderella</string>
+		<string>Bambi</string>
+		<string>Rapunzel</string>
+		<string>Pac-Man</string>
+		<string>Wonder Woman</string>
+		<string>Napoleon Dynamite</string>
+		<string>A-List</string>
+		<string>Bye Bye Birdie</string>
+		<string>Parks and Recreation</string>
+		<string>fashion show</string>
+		<string>Prince Charming</string>
+		<string>On Demand</string>
+		<string>Yahoo!</string>
+		<string>Mr. Big</string>
+		<string>Tom and Jerry</string>
+		<string>Blackberry</string>
+		<string>sequel</string>
+		<string>child star</string>
+		<string>box office</string>
+		<string>journalist</string>
+		<string>Reddit</string>
+		<string>podcast</string>
+		<string>Office Ladies</string>
+		<string>The Joe Rogan Experience</string>
+		<string>Crime Junkie</string>
+		<string>Call Her Daddy</string>
+		<string>The Daily</string>
+		<string>H3 Podcast</string>
+		<string>Frenemies</string>
+		<string>The X Factor</string>
+		<string>guest host</string>
+		<string>Bridesmaids</string>
+		<string>Two and a Half Men</string>
+		<string>Nike</string>
+		<string>Louis Vuitton</string>
+		<string>Adidas</string>
+		<string>Cartier</string>
+		<string>Hermès</string>
+		<string>Dolce &amp; Gabbana</string>
+		<string>Valentino</string>
+		<string>Skims</string>
+		<string>Fenty</string>
+		<string>Birkin bag</string>
+		<string>“Merry Chrysler.”</string>
+		<string>“Do it for the vine.”</string>
+		<string>“What’s 9 plus 10? 21.”</string>
+		<string>“It’s an avocado, thanks!”</string>
+		<string> “I’m in my mum’s car. Broom broom!”</string>
+		<string>“Look at all those chickens!”</string>
+		<string>punch line</string>
+		<string>&quot;I Have a Dream&quot;</string>
+		<string>Bravo</string>
+		<string>Les Misérables</string>
+		<string>Rent</string>
+		<string>Cats</string>
+		<string>The Book of Mormon</string>
+		<string>The Phantom of the Opera</string>
+		<string>Wicked</string>
+		<string>42nd Street</string>
+	</array>
+	<key>team2Score</key>
+	<integer>0</integer>
+	<key>productID</key>
+	<true/>
+	<key>gameRound</key>
+	<integer>1</integer>
+	<key>team1Score</key>
+	<integer>0</integer>
+	<key>hasRun</key>
+	<integer>0</integer>
+</dict>
+</plist>
