@@ -22,12 +22,12 @@ class GameViewController: UIViewController {
     @IBOutlet weak var nextButton: UIButton!
     @IBOutlet weak var progressBar: UIProgressView!
     @IBOutlet weak var soundLabel: UILabel!
-    
+   
     override func viewDidLoad() {
         super.viewDidLoad()
         timerLength = gameManager.roundTime()
-        showSoundMessage()
         gameManager.playSound(soundName: "\(timerLength)")
+        showSoundMessage()
         updateUI()
         progressBar.progress = 0
         timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(goToRoundWinner), userInfo: nil, repeats: true)
@@ -75,9 +75,10 @@ class GameViewController: UIViewController {
             progressBar.progress = Float(secondsPassed) / Float(totalTime)
         } else {
             timer.invalidate()
-            nextButton.isEnabled = false
-            wordLabel.text = K.endOfRound
-           
+            DispatchQueue.main.async {
+                self.nextButton.isEnabled = false
+                self.wordLabel.text = K.endOfRound
+            }
             DispatchQueue.main.asyncAfter(deadline:.now() + 1.0, execute: {
                 self.performSegue(withIdentifier: K.gotoRoundWinnerVC,sender: self)
             })

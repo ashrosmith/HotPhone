@@ -54,23 +54,34 @@ public class GameManager {
         
         let okAction = UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil)
        
-        alert.view.subviews.first?.subviews.first?.subviews.first?.backgroundColor = Colors.orange
-        alert.view.tintColor = Colors.purple
-        alert.setValue(NSAttributedString(string: alert.title!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 20, weight: UIFont.Weight.heavy), NSAttributedString.Key.foregroundColor : Colors.purple]), forKey: "attributedTitle")
-        alert.setValue(NSAttributedString(string: alert.message!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 16,weight: UIFont.Weight.regular),NSAttributedString.Key.foregroundColor : Colors.blue]), forKey: "attributedMessage")
-        
+        alertDesign(alert: alert)
         alert.addAction(okAction)
         viewController.present(alert, animated: true)
     }
     
+    func alertDesign(alert: UIAlertController) {
+        alert.view.subviews.first?.subviews.first?.subviews.first?.backgroundColor = Colors.orange
+        alert.view.tintColor = Colors.purple
+        alert.setValue(NSAttributedString(string: alert.title!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 20, weight: UIFont.Weight.heavy), NSAttributedString.Key.foregroundColor : Colors.purple]), forKey: "attributedTitle")
+        alert.setValue(NSAttributedString(string: alert.message!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 16,weight: UIFont.Weight.regular),NSAttributedString.Key.foregroundColor : Colors.blue]), forKey: "attributedMessage")
+    }
+    
     func isPurchased() -> Bool {
-        
         let purchaseStatus = UserDefaults.standard.bool(forKey: K.productID)
         
         if purchaseStatus {
             return true
         } else {
             return false
+        }
+    }
+    
+    func rateApp(id : String) {
+        guard let url = URL(string : "itms-apps://itunes.apple.com/app/id\(id)?mt=8&action=write-review") else { return }
+        if #available(iOS 10.0, *) {
+            UIApplication.shared.open(url, options: [:], completionHandler: nil)
+        } else {
+            UIApplication.shared.openURL(url)
         }
     }
 }

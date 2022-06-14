@@ -27,7 +27,6 @@ class AddWordViewController: UIViewController {
 //MARK: - Add New Word to Category
     
     @IBAction func categorySelected(_ sender: UIButton) {
-        
         guard let categoryName = sender.titleLabel?.text else {
             gameManager.appAlert(title: "Error", message: "Error selecting a category. Please try again.", viewController: self)
             return
@@ -38,7 +37,6 @@ class AddWordViewController: UIViewController {
         let addAction = UIAlertAction(title: "Add Word", style: .default) { (action) in
             
             if let entry = textField.text {
-                
                 switch categoryName {
                     case K.peopleCategory:
                         self.wordArray.people?.append(entry)
@@ -54,20 +52,15 @@ class AddWordViewController: UIViewController {
                         self.wordArray.popCulture?.append(entry)
                     default:
                         self.gameManager.appAlert(title: "Error", message: "Error adding the word. Please try again.", viewController: self)
-                    }
+                }
             }
-            
             self.wordArray.saveWords()
-            
         }
         
         let cancelAction = UIAlertAction(title: "Cancel", style: .cancel) { (action:UIAlertAction!) in
-           }
+        }
         
-        alert.view.subviews.first?.subviews.first?.subviews.first?.backgroundColor = Colors.orange
-        alert.view.tintColor = Colors.purple
-        alert.setValue(NSAttributedString(string: alert.title!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 20, weight: UIFont.Weight.medium), NSAttributedString.Key.foregroundColor : Colors.purple]), forKey: "attributedTitle")
-        alert.setValue(NSAttributedString(string: alert.message!, attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 16,weight: UIFont.Weight.medium),NSAttributedString.Key.foregroundColor : Colors.blue]), forKey: "attributedMessage")
+        gameManager.alertDesign(alert: alert)
         
         alert.addTextField { (alertTextField) in
             alertTextField.attributedPlaceholder = NSAttributedString(string: "Enter New Word", attributes: [NSAttributedString.Key.font : UIFont.systemFont(ofSize: 14, weight: UIFont.Weight.medium), NSAttributedString.Key.foregroundColor : Colors.blue])
@@ -84,9 +77,9 @@ class AddWordViewController: UIViewController {
     }
     
     func showAllCategories() {
-            DispatchQueue.main.async {
-                self.popCultureButton.isHidden = false
-                self.varietyButton.isHidden = false
+        DispatchQueue.main.async {
+            self.popCultureButton.isHidden = false
+            self.varietyButton.isHidden = false
         }
     }
 }

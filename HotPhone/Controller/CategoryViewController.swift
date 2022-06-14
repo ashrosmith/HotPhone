@@ -29,7 +29,6 @@ class CategoryViewController: UIViewController {
         }
     }
     
-   
 //MARK: - Category Selected Method
     
     @IBAction func categoryButtonPressed(_ sender: UIButton) {
@@ -49,9 +48,8 @@ class CategoryViewController: UIViewController {
                     words = wordArray.popCulture!
                 default:
                     gameManager.appAlert(title: "Error", message: "Error selecting a category. Please try again.", viewController: self)
-                }
+            }
         }
-        
         DispatchQueue.main.async {
             self.performSegue(withIdentifier: K.goToGameVC, sender: self)
         }
@@ -78,7 +76,6 @@ class CategoryViewController: UIViewController {
         DispatchQueue.main.async {
             self.performSegue(withIdentifier: K.goToSettingsVC, sender: self)
         }
-        
     }
     
 //MARK: - Unlock More Categories In-App Purchase Button

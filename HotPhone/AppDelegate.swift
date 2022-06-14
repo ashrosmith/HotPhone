@@ -10,8 +10,6 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         let defaults = UserDefaults.standard
         let prefs = Bundle.main.path(forResource: "Defaults", ofType: "plist")
@@ -23,7 +21,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
     
-
 
     // MARK: - UISceneSession Lifecycle
 
