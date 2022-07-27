@@ -9,14 +9,14 @@ import Foundation
 
 public class Words {
 
-    var people = UserDefaults.standard.stringArray(forKey: K.peopleDefault)
-    var objects = UserDefaults.standard.stringArray(forKey: K.objectsDefault)
-    var world = UserDefaults.standard.stringArray(forKey: K.worldDefault)
-    var food = UserDefaults.standard.stringArray(forKey: K.foodDefault)
-    var variety = UserDefaults.standard.stringArray(forKey: K.varietyDefault)
-    var popCulture = UserDefaults.standard.stringArray(forKey: K.popCultureDefault)
+    public var people = UserDefaults.standard.stringArray(forKey: K.peopleDefault)
+    public var objects = UserDefaults.standard.stringArray(forKey: K.objectsDefault)
+    public var world = UserDefaults.standard.stringArray(forKey: K.worldDefault)
+    public var food = UserDefaults.standard.stringArray(forKey: K.foodDefault)
+    public var variety = UserDefaults.standard.stringArray(forKey: K.varietyDefault)
+    public var popCulture = UserDefaults.standard.stringArray(forKey: K.popCultureDefault)
 
-    func saveWords() {
+    public func saveWords() {
         UserDefaults.standard.set(people, forKey: K.peopleDefault)
         UserDefaults.standard.set(world, forKey: K.worldDefault)
         UserDefaults.standard.set(food, forKey: K.foodDefault)

@@ -12,8 +12,8 @@ class CategoryViewController: UIViewController {
     
     let wordArray = Words()
     let gameManager = GameManager()
-    var words = [String]()
-    var categoryName = String()
+    public var words: [String]!
+    private var categoryName: String!
     
     @IBOutlet weak var unlockMoreCategoriesButton: UIButton!
     @IBOutlet weak var popCultureButton: UIButton!
@@ -86,7 +86,7 @@ class CategoryViewController: UIViewController {
 
 //MARK: - Show Additional Categories Method
     
-    func showAdditionalCategories() {
+    private func showAdditionalCategories() {
         UserDefaults.standard.set(true, forKey: K.productID)
         DispatchQueue.main.async {
             self.popCultureButton.isHidden = false
@@ -100,7 +100,7 @@ class CategoryViewController: UIViewController {
 
 extension CategoryViewController: SKPaymentTransactionObserver {
     
-    func buyAdditionalCategories() {
+    private func buyAdditionalCategories() {
         if SKPaymentQueue.canMakePayments() {
             let paymentRequest = SKMutablePayment()
             paymentRequest.productIdentifier = K.productID

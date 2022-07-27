@@ -11,7 +11,7 @@ import AVFoundation
 class GameOverViewController: UIViewController {
     
     let gameManager = GameManager()
-    var player = AVAudioPlayer()
+    private var player = AVAudioPlayer()
     
     @IBOutlet weak var winningTeam: UILabel!
     @IBOutlet weak var finalScore: UILabel!

@@ -76,7 +76,7 @@ class AddWordViewController: UIViewController {
         present(alert, animated: true, completion: nil)
     }
     
-    func showAllCategories() {
+    private func showAllCategories() {
         DispatchQueue.main.async {
             self.popCultureButton.isHidden = false
             self.varietyButton.isHidden = false

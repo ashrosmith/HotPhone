@@ -12,11 +12,11 @@ class GameViewController: UIViewController {
     
     let wordArray = Words()
     let gameManager = GameManager()
-    var player = AVAudioPlayer()
-    var timer = Timer()
-    var words = [String]()
-    var timerLength = Double()
-    var secondsPassed = 0.0
+    private var player = AVAudioPlayer()
+    private var timer = Timer()
+    public var words = [String]()
+    private var timerLength = Double()
+    private var secondsPassed = 0.0
     
     @IBOutlet weak var wordLabel: UILabel!
     @IBOutlet weak var nextButton: UIButton!
@@ -47,7 +47,7 @@ class GameViewController: UIViewController {
         }
     }
     
-    func updateUI() {
+    private func updateUI() {
         let currentWord = words.randomElement()
         if let index = words.firstIndex(of: currentWord ?? "")  {
           words.remove(at: index)
@@ -55,7 +55,7 @@ class GameViewController: UIViewController {
         wordLabel.text = currentWord
     }
     
-    func showSoundMessage() {
+    private func showSoundMessage() {
         if gameManager.gameRound == 1 {
             DispatchQueue.main.asyncAfter(deadline:.now() + 7.0, execute:{
                 self.soundLabel.isHidden = true

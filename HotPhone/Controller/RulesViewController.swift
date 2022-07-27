@@ -19,7 +19,7 @@ class RulesViewController: UIViewController {
         playGameAlert()
     }
     
-    func playGameAlert() {
+    private func playGameAlert() {
         let alert = UIAlertController(title: "Ready to play?", message: "If you need to refer back to the rules, they can always be found under settings.", preferredStyle: .alert)
         
         let playAction = UIAlertAction(title: "Play", style: .default) { (action) in

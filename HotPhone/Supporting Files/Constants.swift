@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct K {
+public struct K {
     
     static let peopleDefault = "people"
     static let worldDefault = "world"
@@ -53,7 +53,7 @@ struct K {
     static let fireworksGIF = "fireworks"
 }
 
-struct Colors {
+public struct Colors {
     
     static let orange = UIColor(red: 0.98, green: 0.70, blue: 0.45, alpha: 1.00)
     static let blue = UIColor(red: 0.21, green: 0.35, blue: 0.60, alpha: 1.00)
